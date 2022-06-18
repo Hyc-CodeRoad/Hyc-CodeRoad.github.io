@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HycBlog</title>
+  
+  
+  <link href="https://hyc-coderoad.github.io.git/atom.xml" rel="self"/>
+  
+  <link href="https://hyc-coderoad.github.io.git/"/>
+  <updated>2022-06-18T14:16:27.250Z</updated>
+  <id>https://hyc-coderoad.github.io.git/</id>
+  
+  <author>
+    <name>Hyc</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MySQL</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:16:27.250Z</updated>
+    
+    <content type="html"><![CDATA[<p>为什么要学习数据库！</p><span id="more"></span><h1 id="MySQL概述"><a href="#MySQL概述" class="headerlink" title="MySQL概述"></a>MySQL概述</h1>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;为什么要学习数据库！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="数据库" scheme="https://hyc-coderoad.github.io.git/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="MySQL" scheme="https://hyc-coderoad.github.io.git/tags/MySQL/"/>
+    
+    <category term="关系型数据库" scheme="https://hyc-coderoad.github.io.git/tags/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Oracle</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:16:31.736Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Oracle概述"><a href="#Oracle概述" class="headerlink" title="Oracle概述"></a>Oracle概述</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Oracle概述&quot;&gt;&lt;a href=&quot;#Oracle概述&quot; class=&quot;headerlink&quot; title=&quot;Oracle概述&quot;&gt;&lt;/a&gt;Oracle概述&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    <category term="数据库" scheme="https://hyc-coderoad.github.io.git/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="Oracle" scheme="https://hyc-coderoad.github.io.git/tags/Oracle/"/>
+    
+    <category term="关系型数据库" scheme="https://hyc-coderoad.github.io.git/tags/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:17:26.624Z</updated>
+    
+    
+    
+    
+    <category term="数据库" scheme="https://hyc-coderoad.github.io.git/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="非关系型数据库" scheme="https://hyc-coderoad.github.io.git/tags/%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    <category term="NoSQL" scheme="https://hyc-coderoad.github.io.git/tags/NoSQL/"/>
+    
+    <category term="Redis" scheme="https://hyc-coderoad.github.io.git/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java基础</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/Java/Java%E5%9F%BA%E7%A1%80/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/Java/Java%E5%9F%BA%E7%A1%80/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:17:56.224Z</updated>
+    
+    
+    
+    
+    <category term="Java" scheme="https://hyc-coderoad.github.io.git/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://hyc-coderoad.github.io.git/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTML和CSS</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E5%89%8D%E7%AB%AF/HTML%E5%92%8CCSS/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E5%89%8D%E7%AB%AF/HTML%E5%92%8CCSS/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:19:01.507Z</updated>
+    
+    
+    
+    
+    <category term="前端" scheme="https://hyc-coderoad.github.io.git/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="前端基础" scheme="https://hyc-coderoad.github.io.git/tags/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="HTML" scheme="https://hyc-coderoad.github.io.git/tags/HTML/"/>
+    
+    <category term="CSS" scheme="https://hyc-coderoad.github.io.git/tags/CSS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E5%89%8D%E7%AB%AF/JavaScript/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E5%89%8D%E7%AB%AF/JavaScript/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:19:46.779Z</updated>
+    
+    
+    
+    
+    <category term="前端" scheme="https://hyc-coderoad.github.io.git/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="前端基础" scheme="https://hyc-coderoad.github.io.git/tags/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Js" scheme="https://hyc-coderoad.github.io.git/tags/Js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E5%89%8D%E7%AB%AF/Vue/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E5%89%8D%E7%AB%AF/Vue/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:20:21.528Z</updated>
+    
+    
+    
+    
+    <category term="前端" scheme="https://hyc-coderoad.github.io.git/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="Vue" scheme="https://hyc-coderoad.github.io.git/tags/Vue/"/>
+    
+    <category term="前端框架" scheme="https://hyc-coderoad.github.io.git/tags/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据结构和算法</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:24:51.518Z</updated>
+    
+    
+    
+    
+    <category term="计算机专业课" scheme="https://hyc-coderoad.github.io.git/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+    
+    <category term="专业课" scheme="https://hyc-coderoad.github.io.git/tags/%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+    <category term="数据结构" scheme="https://hyc-coderoad.github.io.git/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="算法" scheme="https://hyc-coderoad.github.io.git/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="编程四大件" scheme="https://hyc-coderoad.github.io.git/tags/%E7%BC%96%E7%A8%8B%E5%9B%9B%E5%A4%A7%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>操作系统</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:24:53.799Z</updated>
+    
+    
+    
+    
+    <category term="计算机专业课" scheme="https://hyc-coderoad.github.io.git/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+    
+    <category term="专业课" scheme="https://hyc-coderoad.github.io.git/tags/%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+    <category term="操作系统" scheme="https://hyc-coderoad.github.io.git/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    <category term="编程四大件" scheme="https://hyc-coderoad.github.io.git/tags/%E7%BC%96%E7%A8%8B%E5%9B%9B%E5%A4%A7%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机网络</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:24:36.920Z</updated>
+    
+    
+    
+    
+    <category term="计算机专业课" scheme="https://hyc-coderoad.github.io.git/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+    
+    <category term="专业课" scheme="https://hyc-coderoad.github.io.git/tags/%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+    <category term="计算机网络" scheme="https://hyc-coderoad.github.io.git/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+    <category term="编程四大件" scheme="https://hyc-coderoad.github.io.git/tags/%E7%BC%96%E7%A8%8B%E5%9B%9B%E5%A4%A7%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:24:42.736Z</updated>
+    
+    
+    
+    
+    <category term="计算机专业课" scheme="https://hyc-coderoad.github.io.git/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+    
+    <category term="专业课" scheme="https://hyc-coderoad.github.io.git/tags/%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+    <category term="设计模式" scheme="https://hyc-coderoad.github.io.git/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    <category term="编程四大件" scheme="https://hyc-coderoad.github.io.git/tags/%E7%BC%96%E7%A8%8B%E5%9B%9B%E5%A4%A7%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JDBC</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/Java/JDBC/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/Java/JDBC/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:27:45.653Z</updated>
+    
+    
+    
+    
+    <category term="Java" scheme="https://hyc-coderoad.github.io.git/categories/Java/"/>
+    
+    
+    <category term="编程语言连接数据库" scheme="https://hyc-coderoad.github.io.git/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo搭建个人博客</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E5%85%B6%E4%BB%96/Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E5%85%B6%E4%BB%96/Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:29:40.673Z</updated>
+    
+    
+    
+    
+    <category term="其他" scheme="https://hyc-coderoad.github.io.git/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+    <category term="博客" scheme="https://hyc-coderoad.github.io.git/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot整合JWT</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBoot%E6%95%B4%E5%90%88JWT/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBoot%E6%95%B4%E5%90%88JWT/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:32:14.874Z</updated>
+    
+    
+    
+    
+    <category term="项目实战" scheme="https://hyc-coderoad.github.io.git/categories/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
+    
+    
+    <category term="实战" scheme="https://hyc-coderoad.github.io.git/tags/%E5%AE%9E%E6%88%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot整合Mybatis</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBoot%E6%95%B4%E5%90%88Mybatis/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBoot%E6%95%B4%E5%90%88Mybatis/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:33:12.801Z</updated>
+    
+    
+    
+    
+    <category term="项目实战" scheme="https://hyc-coderoad.github.io.git/categories/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
+    
+    
+    <category term="实战" scheme="https://hyc-coderoad.github.io.git/tags/%E5%AE%9E%E6%88%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot整合MybatisPlus</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBoot%E6%95%B4%E5%90%88MybatisPlus/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBoot%E6%95%B4%E5%90%88MybatisPlus/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:34:26.056Z</updated>
+    
+    
+    
+    
+    <category term="项目实战" scheme="https://hyc-coderoad.github.io.git/categories/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
+    
+    
+    <category term="实战" scheme="https://hyc-coderoad.github.io.git/tags/%E5%AE%9E%E6%88%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue封装Axios</title>
+    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/Vue%E5%B0%81%E8%A3%85Axios/"/>
+    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/Vue%E5%B0%81%E8%A3%85Axios/</id>
+    <published>2022-06-18T14:14:59.000Z</published>
+    <updated>2022-06-18T14:35:45.044Z</updated>
+    
+    
+    
+    
+    <category term="项目实战" scheme="https://hyc-coderoad.github.io.git/categories/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
+    
+    
+    <category term="实战" scheme="https://hyc-coderoad.github.io.git/tags/%E5%AE%9E%E6%88%98/"/>
+    
+  </entry>
+  
+</feed>
