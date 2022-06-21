@@ -6,7 +6,7 @@
   <link href="https://hyc-coderoad.github.io.git/atom.xml" rel="self"/>
   
   <link href="https://hyc-coderoad.github.io.git/"/>
-  <updated>2022-06-18T14:27:45.653Z</updated>
+  <updated>2022-06-21T13:02:52.000Z</updated>
   <id>https://hyc-coderoad.github.io.git/</id>
   
   <author>
@@ -17,340 +17,262 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>JDBC</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/Java/JDBC/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/Java/JDBC/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-18T14:27:45.653Z</updated>
+    <title>Unity</title>
+    <link href="https://hyc-coderoad.github.io.git/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Unity/"/>
+    <id>https://hyc-coderoad.github.io.git/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Unity/</id>
+    <published>2022-06-21T13:03:30.015Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
     
     
-    <category term="Java" scheme="https://hyc-coderoad.github.io.git/categories/Java/"/>
-    
-    
-    <category term="编程语言连接数据库" scheme="https://hyc-coderoad.github.io.git/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
   </entry>
   
   <entry>
-    <title>Java基础</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/Java/Java%E5%9F%BA%E7%A1%80/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/Java/Java%E5%9F%BA%E7%A1%80/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-19T08:51:00.655Z</updated>
-    
-    <content type="html"><![CDATA[<p>Java基础</p><span id="more"></span><h1 id="Java概述"><a href="#Java概述" class="headerlink" title="Java概述"></a>Java概述</h1><h2 id="第一个Java程序"><a href="#第一个Java程序" class="headerlink" title="第一个Java程序"></a>第一个Java程序</h2><blockquote><p>使用记事本或者其他文本编辑工具即可</p></blockquote><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">HelloWorld</span>&#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span> &#123;</span><br><span class="line"><span class="comment">// 输出语句</span></span><br><span class="line">        System.out.println(<span class="string">&quot;Hello World&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><ol><li>将文件后缀名改成.java</li><li>在控制台中使用javac命令对.java文件进行编译，需要带.java后缀</li><li>使用java命令运行生成的.class文件，运行是不需要带.class后缀，直接文件名即可</li></ol><ul><li>编译</li></ul><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">javac HelloWorld.java</span><br></pre></td></tr></table></figure><ul><li>运行</li></ul><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">java HelloWorld</span><br></pre></td></tr></table></figure><blockquote><ul><li>在一个类中可以声明多个class，但是只有一个类声明为public的，跟文件名相同的类上</li><li>main方法是程序的入口，Java程序从main方法开始执行</li><li>每一行都以分号结尾</li><li>Java程序严格区分大小写</li><li>一个类中声明了多个class，那么编译后会生成多个.class文件，文件名与class后面的类名相同</li></ul></blockquote><h1 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h1><p>注释只是对代码进行解释说明，不参与代码的运行。</p><p>Java中有三种注释：</p><ul><li>单行注释</li><li>多行注释</li><li>文档注释</li></ul><h2 id="单行注释"><a href="#单行注释" class="headerlink" title="单行注释"></a>单行注释</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 我是单行注释</span></span><br></pre></td></tr></table></figure><h2 id="多行注释"><a href="#多行注释" class="headerlink" title="多行注释"></a>多行注释</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/*</span></span><br><span class="line"><span class="comment">  我是多行注释</span></span><br><span class="line"><span class="comment">*/</span></span><br></pre></td></tr></table></figure><ul><li>多行注释是不可以嵌套使用的</li></ul><h2 id="文档注释（Java特有）"><a href="#文档注释（Java特有）" class="headerlink" title="文档注释（Java特有）"></a>文档注释（Java特有）</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment">   <span class="doctag">@author</span> 指定Java程序的作者</span></span><br><span class="line"><span class="comment">   <span class="doctag">@version</span> 指定Java程序版本</span></span><br><span class="line"><span class="comment">   我是文档注释</span></span><br><span class="line"><span class="comment">*/</span></span><br></pre></td></tr></table></figure><p>文档注释通常搭配注解一起使用。</p><p>注释的内容可以被JDK所提供的工具javadoc所解析，生成一套以网页形式体现的该程序的说明文档。</p><ul><li>例如：</li></ul><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">javadoc -d mydoc -author -version 文件名.java</span><br></pre></td></tr></table></figure><h2 id="作用"><a href="#作用" class="headerlink" title="作用"></a>作用</h2><p>单行注释和多行注释：</p><ul><li>对所写的代码进行解释说明，增强代码可读性。方便自己和他人阅读</li><li>方便调试，可以将可能存在问题的代码注释掉</li></ul><h1 id="基本语法"><a href="#基本语法" class="headerlink" title="基本语法"></a>基本语法</h1><h2 id="关键字和保留字"><a href="#关键字和保留字" class="headerlink" title="关键字和保留字"></a>关键字和保留字</h2><h3 id="关键字"><a href="#关键字" class="headerlink" title="关键字"></a>关键字</h3><p>被Java语言赋予了特殊含有，用做专门用途的单词。</p><p>关键字中的所有字母都为小写。</p><h3 id="保留字"><a href="#保留字" class="headerlink" title="保留字"></a>保留字</h3><p>现有的版本还没有使用，但以后的版本可能会作为关键字使用。</p><h2 id="标识符"><a href="#标识符" class="headerlink" title="标识符"></a>标识符</h2><p>就是Java中需要对变量，方法和类等需要命名的地方所使用的字符序列。需要自己起名字的地方都叫标识符。</p><h3 id="命名规则"><a href="#命名规则" class="headerlink" title="命名规则"></a>命名规则</h3><ul><li>由字母，数字，下划线和美元符号组成</li><li>数字不可以开头</li><li>不可以使用关键字和保留字，但是可以包含</li><li>Java中严格区分大小写，长度无限制</li><li>标识符不能包含空格</li></ul><h3 id="命名规范"><a href="#命名规范" class="headerlink" title="命名规范"></a>命名规范</h3><blockquote><p>规范是行业长期形成的规范，可以不遵守。</p></blockquote><ul><li>包名：全部小写</li><li>类名：接口名：首字母大写，多个单词是遵循驼峰命名</li><li>变量名：方法名：首字母小写，多个单吃时遵循驼峰命名</li><li>常量名：所有字母大写，多个单词时，使用下划线隔开</li></ul><blockquote><ul><li>命名时为了提高可阅读性，尽量有意义，见名知意</li><li>Java使用unicode字符集，因此也可以使用中文或者其他国家字符来声明，不建议使用。</li></ul></blockquote><h2 id="变量"><a href="#变量" class="headerlink" title="变量"></a>变量</h2><h3 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h3><p>就是内存中的一块存储区域。该区域可以在同一类型范围内不断变化。</p><p>变量式程序中最基本的存储单元。包含变量类型，变量名和存储的值。</p><h3 id="定义变量"><a href="#定义变量" class="headerlink" title="定义变量"></a>定义变量</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 格式：数据类型 变量名 = 值;</span></span><br><span class="line"><span class="comment">// 声明并初始化</span></span><br><span class="line"><span class="type">int</span> <span class="variable">num</span> <span class="operator">=</span> <span class="number">10</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 先声明后初始化</span></span><br><span class="line"><span class="type">int</span> num1;</span><br><span class="line">num1 = <span class="number">12</span>;</span><br></pre></td></tr></table></figure><blockquote><ul><li>变量必须初始化（赋值）以后才能使用</li><li>变量都定义其作用域内，在作用域内都是有效的</li><li>同一个作用域内，不可以声明两个同名的变量</li></ul></blockquote><h2 id="数据类型（主要讲基本数据类型）"><a href="#数据类型（主要讲基本数据类型）" class="headerlink" title="数据类型（主要讲基本数据类型）"></a>数据类型（主要讲基本数据类型）</h2><h3 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h3><p>按数据类型分可以分为：基本数据类型和引用数据类型。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">- 数据类型</span><br><span class="line">- 基本数据类型</span><br><span class="line">- 整型（byte，short，int，long）</span><br><span class="line">- 浮点型（double，float）</span><br><span class="line">- 字符型（char）</span><br><span class="line">- 布尔型（boolean）</span><br><span class="line">- 引用数据类型</span><br><span class="line">- 类（class）</span><br><span class="line">- 接口（interface）</span><br><span class="line">- 数组（[ ]）</span><br></pre></td></tr></table></figure><p>根据在类中的声明位置可以分为：成员变量和局部变量（目前了解即可）</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">- 按声明位置分</span><br><span class="line">- 成员变量</span><br><span class="line">- 实例变量</span><br><span class="line">- 类变量（static修饰）</span><br><span class="line">- 局部变量</span><br><span class="line">- 形参</span><br><span class="line">- 方法局部变量</span><br><span class="line">- 代码块局部变量</span><br></pre></td></tr></table></figure><h3 id="整型"><a href="#整型" class="headerlink" title="整型"></a>整型</h3><p>Java中的整数有固定的表述范围，不受操作系统影响，以保证Java程序的可移植性。</p><table><thead><tr><th>类型</th><th>空间</th><th>大小</th></tr></thead><tbody><tr><td>byte</td><td>1字节</td><td>-2的7次~2的7次-1</td></tr><tr><td>short</td><td>2字节</td><td>-2的15次~2的15次-1</td></tr><tr><td>int</td><td>4字节</td><td>-2的31次~2的31次-1</td></tr><tr><td>long</td><td>8字节</td><td>-2的63次~2的63次-1</td></tr></tbody></table><blockquote><p>Java整型常量默认为int类型，声明long类型时常量后需要加L或l。</p></blockquote><h3 id="浮点型"><a href="#浮点型" class="headerlink" title="浮点型"></a>浮点型</h3><p>浮点型通常有两种表示形式：</p><ul><li>十进制数表示形式</li><li>科学计数法表示形式</li></ul><table><thead><tr><th>类型</th><th>空间</th></tr></thead><tbody><tr><td>float（单精度）</td><td>4字节</td></tr><tr><td>double（双精度）</td><td>8字节</td></tr></tbody></table><blockquote><p>如果需要追求精度吗如科学计算，银行存款等等，不能使用float和double来表示，Java提供了专门的类来处理需要高精度的情况。</p></blockquote><h3 id="字符型（char）"><a href="#字符型（char）" class="headerlink" title="字符型（char）"></a>字符型（char）</h3><p>char类型就是用来表示通常意义上的字符（2字节）。</p><p>Java中的所有字符都使用Unicode编码，所以字符，汉字，或其他语言的一个字符都可以。</p><p>字符常量使用单引号引起来的单个字符。</p><p>Java中允许使用转义字符，可以直接使用Unicode的值来表示字符型常量。</p><p>char类型可以参与运行，因为它都有对应的Unicode码。</p><h3 id="布尔类型（boolean）"><a href="#布尔类型（boolean）" class="headerlink" title="布尔类型（boolean）"></a>布尔类型（boolean）</h3><p>boolean类型只有true和false两个值。</p><p>在Java中不能使用0和1来表示ture和false。</p><p>boolean类型不能参与数值计算。</p><h3 id="数据类型转换"><a href="#数据类型转换" class="headerlink" title="数据类型转换"></a>数据类型转换</h3><h4 id="自动类型转换"><a href="#自动类型转换" class="headerlink" title="自动类型转换"></a>自动类型转换</h4><p>自动类型转换：容量小的类型自动转换为容量大的数据类型。</p><blockquote><ul><li>在多种类型参与运算时，系统会自动将所有类型转换为其中容量最大的数据类型，再进行运算。</li></ul></blockquote><h4 id="强制类型转换"><a href="#强制类型转换" class="headerlink" title="强制类型转换"></a>强制类型转换</h4><p>强制类型转换：容量大的类型转换为容量小的数据类型时，需要进行强制类型转换</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 将double类型强制转成int</span></span><br><span class="line"><span class="type">double</span> <span class="variable">d</span> <span class="operator">=</span> <span class="number">12.3</span>;</span><br><span class="line"><span class="type">int</span> <span class="variable">a</span> <span class="operator">=</span> (<span class="type">int</span>)d;</span><br></pre></td></tr></table></figure><blockquote><ul><li>强制类型转换可能会造成精度损失问题</li></ul></blockquote><h2 id="运算符"><a href="#运算符" class="headerlink" title="运算符"></a>运算符</h2><h3 id="算数运算符"><a href="#算数运算符" class="headerlink" title="算数运算符"></a>算数运算符</h3><h3 id="赋值运算符"><a href="#赋值运算符" class="headerlink" title="赋值运算符"></a>赋值运算符</h3><h3 id="比较运算符"><a href="#比较运算符" class="headerlink" title="比较运算符"></a>比较运算符</h3><h3 id="逻辑运算符"><a href="#逻辑运算符" class="headerlink" title="逻辑运算符"></a>逻辑运算符</h3><h3 id="位运算符"><a href="#位运算符" class="headerlink" title="位运算符"></a>位运算符</h3><h2 id="流程控制"><a href="#流程控制" class="headerlink" title="流程控制"></a>流程控制</h2><h3 id="分支语句"><a href="#分支语句" class="headerlink" title="分支语句"></a>分支语句</h3><h3 id="循环语句"><a href="#循环语句" class="headerlink" title="循环语句"></a>循环语句</h3>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;Java基础&lt;/p&gt;</summary>
+    <title>C基础</title>
+    <link href="https://hyc-coderoad.github.io.git/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/C#%E5%9F%BA%E7%A1%80/"/>
+    <id>https://hyc-coderoad.github.io.git/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/C#%E5%9F%BA%E7%A1%80/</id>
+    <published>2022-06-21T13:03:30.012Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
     
-    <category term="Java" scheme="https://hyc-coderoad.github.io.git/categories/Java/"/>
     
-    
-    <category term="Java" scheme="https://hyc-coderoad.github.io.git/tags/Java/"/>
     
   </entry>
   
   <entry>
-    <title>Hexo搭建个人博客</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E5%85%B6%E4%BB%96/Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E5%85%B6%E4%BB%96/Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-18T14:29:40.673Z</updated>
+    <title>Blender</title>
+    <link href="https://hyc-coderoad.github.io.git/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Blender/"/>
+    <id>https://hyc-coderoad.github.io.git/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Blender/</id>
+    <published>2022-06-21T13:03:30.011Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
     
     
-    <category term="其他" scheme="https://hyc-coderoad.github.io.git/categories/%E5%85%B6%E4%BB%96/"/>
-    
-    
-    <category term="博客" scheme="https://hyc-coderoad.github.io.git/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
   <entry>
-    <title>HTML和CSS</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E5%89%8D%E7%AB%AF/HTML%E5%92%8CCSS/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E5%89%8D%E7%AB%AF/HTML%E5%92%8CCSS/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-18T14:19:01.507Z</updated>
+    <title>语法</title>
+    <link href="https://hyc-coderoad.github.io.git/%E8%8B%B1%E8%AF%AD/%E8%AF%AD%E6%B3%95/"/>
+    <id>https://hyc-coderoad.github.io.git/%E8%8B%B1%E8%AF%AD/%E8%AF%AD%E6%B3%95/</id>
+    <published>2022-06-21T13:03:30.005Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
     
     
-    <category term="前端" scheme="https://hyc-coderoad.github.io.git/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-    
-    <category term="前端基础" scheme="https://hyc-coderoad.github.io.git/tags/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="HTML" scheme="https://hyc-coderoad.github.io.git/tags/HTML/"/>
-    
-    <category term="CSS" scheme="https://hyc-coderoad.github.io.git/tags/CSS/"/>
     
   </entry>
   
   <entry>
-    <title>JavaScript</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E5%89%8D%E7%AB%AF/JavaScript/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E5%89%8D%E7%AB%AF/JavaScript/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-18T14:19:46.779Z</updated>
+    <title>单词本</title>
+    <link href="https://hyc-coderoad.github.io.git/%E8%8B%B1%E8%AF%AD/%E5%8D%95%E8%AF%8D%E6%9C%AC/"/>
+    <id>https://hyc-coderoad.github.io.git/%E8%8B%B1%E8%AF%AD/%E5%8D%95%E8%AF%8D%E6%9C%AC/</id>
+    <published>2022-06-21T13:03:30.002Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
     
     
-    <category term="前端" scheme="https://hyc-coderoad.github.io.git/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-    
-    <category term="前端基础" scheme="https://hyc-coderoad.github.io.git/tags/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
-    
-    <category term="Js" scheme="https://hyc-coderoad.github.io.git/tags/Js/"/>
     
   </entry>
   
   <entry>
-    <title>Vue</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E5%89%8D%E7%AB%AF/Vue/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E5%89%8D%E7%AB%AF/Vue/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-18T14:20:21.528Z</updated>
+    <title>高等数学</title>
+    <link href="https://hyc-coderoad.github.io.git/%E6%95%B0%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/"/>
+    <id>https://hyc-coderoad.github.io.git/%E6%95%B0%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/</id>
+    <published>2022-06-21T13:03:29.998Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
     
     
-    <category term="前端" scheme="https://hyc-coderoad.github.io.git/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-    
-    <category term="Vue" scheme="https://hyc-coderoad.github.io.git/tags/Vue/"/>
-    
-    <category term="前端框架" scheme="https://hyc-coderoad.github.io.git/tags/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/"/>
     
   </entry>
   
   <entry>
-    <title>MySQL</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-18T14:16:27.250Z</updated>
-    
-    <content type="html"><![CDATA[<p>为什么要学习数据库！</p><span id="more"></span><h1 id="MySQL概述"><a href="#MySQL概述" class="headerlink" title="MySQL概述"></a>MySQL概述</h1>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;为什么要学习数据库！&lt;/p&gt;</summary>
+    <title>离散数学</title>
+    <link href="https://hyc-coderoad.github.io.git/%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/"/>
+    <id>https://hyc-coderoad.github.io.git/%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/</id>
+    <published>2022-06-21T13:03:29.996Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
     
-    <category term="数据库" scheme="https://hyc-coderoad.github.io.git/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
-    
-    <category term="MySQL" scheme="https://hyc-coderoad.github.io.git/tags/MySQL/"/>
-    
-    <category term="关系型数据库" scheme="https://hyc-coderoad.github.io.git/tags/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Oracle</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-18T14:16:31.736Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Oracle概述"><a href="#Oracle概述" class="headerlink" title="Oracle概述"></a>Oracle概述</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;Oracle概述&quot;&gt;&lt;a href=&quot;#Oracle概述&quot; class=&quot;headerlink&quot; title=&quot;Oracle概述&quot;&gt;&lt;/a&gt;Oracle概述&lt;/h1&gt;</summary>
-      
-    
-    
-    
-    <category term="数据库" scheme="https://hyc-coderoad.github.io.git/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    
-    <category term="关系型数据库" scheme="https://hyc-coderoad.github.io.git/tags/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    <category term="Oracle" scheme="https://hyc-coderoad.github.io.git/tags/Oracle/"/>
     
   </entry>
   
   <entry>
     <title>Redis</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-18T14:17:26.624Z</updated>
+    <link href="https://hyc-coderoad.github.io.git/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/"/>
+    <id>https://hyc-coderoad.github.io.git/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/</id>
+    <published>2022-06-21T13:03:29.991Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
     
     
-    <category term="数据库" scheme="https://hyc-coderoad.github.io.git/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    
-    <category term="Redis" scheme="https://hyc-coderoad.github.io.git/tags/Redis/"/>
-    
-    <category term="非关系型数据库" scheme="https://hyc-coderoad.github.io.git/tags/%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    <category term="NoSQL" scheme="https://hyc-coderoad.github.io.git/tags/NoSQL/"/>
     
   </entry>
   
   <entry>
-    <title>操作系统</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-18T14:24:53.799Z</updated>
+    <title>Oracle</title>
+    <link href="https://hyc-coderoad.github.io.git/%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle/"/>
+    <id>https://hyc-coderoad.github.io.git/%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle/</id>
+    <published>2022-06-21T13:03:29.989Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
     
     
-    <category term="计算机专业课" scheme="https://hyc-coderoad.github.io.git/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
-    
-    
-    <category term="专业课" scheme="https://hyc-coderoad.github.io.git/tags/%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
-    
-    <category term="操作系统" scheme="https://hyc-coderoad.github.io.git/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
-    
-    <category term="编程四大件" scheme="https://hyc-coderoad.github.io.git/tags/%E7%BC%96%E7%A8%8B%E5%9B%9B%E5%A4%A7%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
-    <title>数据结构和算法</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-18T14:24:51.518Z</updated>
+    <title>MySQL</title>
+    <link href="https://hyc-coderoad.github.io.git/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/"/>
+    <id>https://hyc-coderoad.github.io.git/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/</id>
+    <published>2022-06-21T13:03:29.987Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
     
     
-    <category term="计算机专业课" scheme="https://hyc-coderoad.github.io.git/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
-    
-    
-    <category term="专业课" scheme="https://hyc-coderoad.github.io.git/tags/%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
-    
-    <category term="编程四大件" scheme="https://hyc-coderoad.github.io.git/tags/%E7%BC%96%E7%A8%8B%E5%9B%9B%E5%A4%A7%E4%BB%B6/"/>
-    
-    <category term="数据结构" scheme="https://hyc-coderoad.github.io.git/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    
-    <category term="算法" scheme="https://hyc-coderoad.github.io.git/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
-    <title>计算机网络</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-18T14:24:36.920Z</updated>
+    <title>Vue</title>
+    <link href="https://hyc-coderoad.github.io.git/%E5%89%8D%E7%AB%AF/Vue/"/>
+    <id>https://hyc-coderoad.github.io.git/%E5%89%8D%E7%AB%AF/Vue/</id>
+    <published>2022-06-21T13:03:29.982Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
     
     
-    <category term="计算机专业课" scheme="https://hyc-coderoad.github.io.git/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript</title>
+    <link href="https://hyc-coderoad.github.io.git/%E5%89%8D%E7%AB%AF/JavaScript/"/>
+    <id>https://hyc-coderoad.github.io.git/%E5%89%8D%E7%AB%AF/JavaScript/</id>
+    <published>2022-06-21T13:03:29.980Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
-    <category term="专业课" scheme="https://hyc-coderoad.github.io.git/tags/%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
     
-    <category term="编程四大件" scheme="https://hyc-coderoad.github.io.git/tags/%E7%BC%96%E7%A8%8B%E5%9B%9B%E5%A4%A7%E4%BB%B6/"/>
     
-    <category term="计算机网络" scheme="https://hyc-coderoad.github.io.git/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTML和CSS</title>
+    <link href="https://hyc-coderoad.github.io.git/%E5%89%8D%E7%AB%AF/HTML%E5%92%8CCSS/"/>
+    <id>https://hyc-coderoad.github.io.git/%E5%89%8D%E7%AB%AF/HTML%E5%92%8CCSS/</id>
+    <published>2022-06-21T13:03:29.978Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
+    
+    
+    
+    
     
   </entry>
   
   <entry>
     <title>设计模式</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-18T14:24:42.736Z</updated>
+    <link href="https://hyc-coderoad.github.io.git/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    <id>https://hyc-coderoad.github.io.git/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</id>
+    <published>2022-06-21T13:03:29.971Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
     
     
-    <category term="计算机专业课" scheme="https://hyc-coderoad.github.io.git/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
-    
-    
-    <category term="专业课" scheme="https://hyc-coderoad.github.io.git/tags/%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
-    
-    <category term="编程四大件" scheme="https://hyc-coderoad.github.io.git/tags/%E7%BC%96%E7%A8%8B%E5%9B%9B%E5%A4%A7%E4%BB%B6/"/>
-    
-    <category term="设计模式" scheme="https://hyc-coderoad.github.io.git/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
-    <title>SpringBoot整合JWT</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBoot%E6%95%B4%E5%90%88JWT/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBoot%E6%95%B4%E5%90%88JWT/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-18T14:32:14.874Z</updated>
+    <title>计算机网络</title>
+    <link href="https://hyc-coderoad.github.io.git/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    <id>https://hyc-coderoad.github.io.git/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</id>
+    <published>2022-06-21T13:03:29.970Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
     
     
-    <category term="项目实战" scheme="https://hyc-coderoad.github.io.git/categories/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
-    
-    
-    <category term="实战" scheme="https://hyc-coderoad.github.io.git/tags/%E5%AE%9E%E6%88%98/"/>
     
   </entry>
   
   <entry>
-    <title>SpringBoot整合Mybatis</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBoot%E6%95%B4%E5%90%88Mybatis/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBoot%E6%95%B4%E5%90%88Mybatis/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-18T14:33:12.801Z</updated>
+    <title>数据结构和算法</title>
+    <link href="https://hyc-coderoad.github.io.git/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/"/>
+    <id>https://hyc-coderoad.github.io.git/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/</id>
+    <published>2022-06-21T13:03:29.968Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
     
     
-    <category term="项目实战" scheme="https://hyc-coderoad.github.io.git/categories/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
-    
-    
-    <category term="实战" scheme="https://hyc-coderoad.github.io.git/tags/%E5%AE%9E%E6%88%98/"/>
     
   </entry>
   
   <entry>
-    <title>SpringBoot整合MybatisPlus</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBoot%E6%95%B4%E5%90%88MybatisPlus/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBoot%E6%95%B4%E5%90%88MybatisPlus/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-18T14:34:26.056Z</updated>
+    <title>操作系统</title>
+    <link href="https://hyc-coderoad.github.io.git/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://hyc-coderoad.github.io.git/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</id>
+    <published>2022-06-21T13:03:29.966Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
     
     
-    <category term="项目实战" scheme="https://hyc-coderoad.github.io.git/categories/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
-    
-    
-    <category term="实战" scheme="https://hyc-coderoad.github.io.git/tags/%E5%AE%9E%E6%88%98/"/>
     
   </entry>
   
   <entry>
-    <title>Vue封装Axios</title>
-    <link href="https://hyc-coderoad.github.io.git/2022/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/Vue%E5%B0%81%E8%A3%85Axios/"/>
-    <id>https://hyc-coderoad.github.io.git/2022/06/18/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/Vue%E5%B0%81%E8%A3%85Axios/</id>
-    <published>2022-06-18T14:14:59.000Z</published>
-    <updated>2022-06-18T14:35:45.044Z</updated>
+    <title>Python爬虫</title>
+    <link href="https://hyc-coderoad.github.io.git/Python/Python%E7%88%AC%E8%99%AB/"/>
+    <id>https://hyc-coderoad.github.io.git/Python/Python%E7%88%AC%E8%99%AB/</id>
+    <published>2022-06-21T13:03:29.961Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
     
     
-    <category term="项目实战" scheme="https://hyc-coderoad.github.io.git/categories/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python</title>
+    <link href="https://hyc-coderoad.github.io.git/Python/Python%E5%9F%BA%E7%A1%80/"/>
+    <id>https://hyc-coderoad.github.io.git/Python/Python%E5%9F%BA%E7%A1%80/</id>
+    <published>2022-06-21T13:03:29.959Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
     
     
-    <category term="实战" scheme="https://hyc-coderoad.github.io.git/tags/%E5%AE%9E%E6%88%98/"/>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Java基础语法</title>
+    <link href="https://hyc-coderoad.github.io.git/Java/Java%E5%9F%BA%E7%A1%80/03-Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/"/>
+    <id>https://hyc-coderoad.github.io.git/Java/Java%E5%9F%BA%E7%A1%80/03-Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</id>
+    <published>2022-06-21T13:03:29.951Z</published>
+    <updated>2022-06-21T13:02:52.000Z</updated>
+    
+    
+    
+    
     
   </entry>
   
