@@ -50,10 +50,10 @@ https://hyc-coderoad.github.io.git/Java/Java%E5%9F%BA%E7%A1%80/
 https://hyc-coderoad.github.io.git/Java/JavaEE/
 https://hyc-coderoad.github.io.git/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/
 https://hyc-coderoad.github.io.git/%E5%85%B6%E4%BB%96/
-https://hyc-coderoad.github.io.git/repository/index.html
 https://hyc-coderoad.github.io.git/tags/index.html
-https://hyc-coderoad.github.io.git/links/index.html
+https://hyc-coderoad.github.io.git/repository/index.html
 https://hyc-coderoad.github.io.git/categories/index.html
+https://hyc-coderoad.github.io.git/links/index.html
 https://hyc-coderoad.github.io.git/books/index.html
 https://hyc-coderoad.github.io.git/404.html
 https://hyc-coderoad.github.io.git/
