@@ -17,32 +17,9 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://hyc-coderoad.github.io.git/%E5%85%B3%E4%BA%8E/"/>
-    <id>https://hyc-coderoad.github.io.git/%E5%85%B3%E4%BA%8E/</id>
-    <published>2022-06-27T12:43:32.820Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h1><ul><li>📱手机：18072392773</li><li>📞微信：Hyc123_WeChat</li><li>📧邮箱：<a href="mailto:&#104;&#x79;&#99;&#49;&#50;&#51;&#x5f;&#101;&#x6d;&#97;&#x69;&#108;&#x40;&#x31;&#x36;&#51;&#x2e;&#99;&#111;&#x6d;">&#104;&#x79;&#99;&#49;&#50;&#51;&#x5f;&#101;&#x6d;&#97;&#x69;&#108;&#x40;&#x31;&#x36;&#51;&#x2e;&#99;&#111;&#x6d;</a></li><li>💻博客：<a href="https://hyc-coderoad.github.io/">HycBlog (hyc-coderoad.github.io)</a></li></ul><h1 id="专业技能"><a href="#专业技能" class="headerlink" title="专业技能"></a>专业技能</h1><ul><li>熟练使用Java面向对象编程，了解JVM以及调优</li><li>熟练使用Spring，SpringMVC，MyBatis，MyBatis-Plus，SpringBoot等框架</li><li>熟悉MySQL，熟练编写SQL语句，了解MySQL性能调优，了解Oracle，Redis数据库</li><li>熟练使用HTML和CSS，JavaScript等前端基础，熟练使用Vue以及ElementUI，Vant，Echarts等前端库</li><li>熟练使用Git，Maven，IDEA，VsCode等开发工具</li><li>了解Go，Python等语言基础，可以使用Go语言框架GoFrame开发后端接口</li><li>了解Docker，Nginx等其他技术，了解Linux基本命令</li></ul><h1 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a>工作经历</h1><p><strong>浙江财渔科技有限公司</strong>    <strong>Java开发工程师</strong>   <strong>2021-03-15 ~ 2022-01-28</strong></p><p><strong>北京北龙青云科技有限公司   Java开发工程师</strong>  <strong>2022-02-28 ~ 至今</strong></p><h1 id="项目经验"><a href="#项目经验" class="headerlink" title="项目经验"></a>项目经验</h1><p><strong>智慧校园（SpringBoot+MyBatis+MySQL+Vue+钉钉小程序） 浙江财渔科技有限公司</strong></p><ul><li>使用Vue+VantUI开发前端页面，使用Echarts开发统计相关功能</li><li>负责家长大学，智慧校车，放心吃等模块的设计和接口开发</li></ul><p><strong>企业ERP系统（GoFrame+MySQL+Angular）浙江财渔科技有限公司</strong></p><p>*</p><p><strong>中科院人才库/中科院域名管理系统</strong>/<strong>其他小工具（SpringBoot+MyBatis-Plus+Vue+Oracle）</strong>  <strong>北京北龙青云科技有限公司</strong></p><h1 id="个人总结"><a href="#个人总结" class="headerlink" title="个人总结"></a>个人总结</h1><p>对自己的定位：后端开发。以全栈为目标，希望成为一个六边形战士。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;个人信息&quot;&gt;&lt;a href=&quot;#个人信息&quot; class=&quot;headerlink&quot; title=&quot;个人信息&quot;&gt;&lt;/a&gt;个人信息&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;📱手机：18072392773&lt;/li&gt;
-&lt;li&gt;📞微信：Hyc123_WeChat&lt;/li&gt;
-&lt;li&gt;📧</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>工具</title>
-    <link href="https://hyc-coderoad.github.io.git/%E5%B7%A5%E5%85%B7/"/>
-    <id>https://hyc-coderoad.github.io.git/%E5%B7%A5%E5%85%B7/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/%E5%B7%A5%E5%85%B7.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/%E5%B7%A5%E5%85%B7.html</id>
     <published>2022-06-27T12:43:32.818Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
@@ -54,8 +31,8 @@
   
   <entry>
     <title>JWT</title>
-    <link href="https://hyc-coderoad.github.io.git/%E5%B7%A5%E5%85%B7/JWT/"/>
-    <id>https://hyc-coderoad.github.io.git/%E5%B7%A5%E5%85%B7/JWT/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/%E5%B7%A5%E5%85%B7/JWT.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/%E5%B7%A5%E5%85%B7/JWT.html</id>
     <published>2022-06-27T12:43:32.689Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
@@ -76,8 +53,8 @@
   
   <entry>
     <title>Git</title>
-    <link href="https://hyc-coderoad.github.io.git/%E5%B7%A5%E5%85%B7/Git/"/>
-    <id>https://hyc-coderoad.github.io.git/%E5%B7%A5%E5%85%B7/Git/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/%E5%B7%A5%E5%85%B7/Git.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/%E5%B7%A5%E5%85%B7/Git.html</id>
     <published>2022-06-27T12:43:32.687Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
@@ -98,8 +75,8 @@
   
   <entry>
     <title></title>
-    <link href="https://hyc-coderoad.github.io.git/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java9/"/>
-    <id>https://hyc-coderoad.github.io.git/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java9/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java9.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java9.html</id>
     <published>2022-06-27T12:43:32.656Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
@@ -111,8 +88,8 @@
   
   <entry>
     <title></title>
-    <link href="https://hyc-coderoad.github.io.git/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java8/"/>
-    <id>https://hyc-coderoad.github.io.git/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java8/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java8.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java8.html</id>
     <published>2022-06-27T12:43:32.654Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
@@ -124,8 +101,8 @@
   
   <entry>
     <title></title>
-    <link href="https://hyc-coderoad.github.io.git/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java11/"/>
-    <id>https://hyc-coderoad.github.io.git/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java11/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java11.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java11.html</id>
     <published>2022-06-27T12:43:32.652Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
@@ -137,8 +114,8 @@
   
   <entry>
     <title></title>
-    <link href="https://hyc-coderoad.github.io.git/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java10/"/>
-    <id>https://hyc-coderoad.github.io.git/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java10/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java10.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java10.html</id>
     <published>2022-06-27T12:43:32.650Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
@@ -150,8 +127,8 @@
   
   <entry>
     <title>NavPage</title>
-    <link href="https://hyc-coderoad.github.io.git/NavPage/"/>
-    <id>https://hyc-coderoad.github.io.git/NavPage/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/NavPage.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/NavPage.html</id>
     <published>2022-06-27T12:43:32.573Z</published>
     <updated>2022-06-27T12:43:10.000Z</updated>
     
@@ -171,12 +148,12 @@
   
   <entry>
     <title>前端Base64转file类型</title>
-    <link href="https://hyc-coderoad.github.io.git/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81&amp;%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/%E5%89%8D%E7%AB%AFBase64%E8%BD%ACfile%E7%B1%BB%E5%9E%8B/"/>
-    <id>https://hyc-coderoad.github.io.git/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81&amp;%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/%E5%89%8D%E7%AB%AFBase64%E8%BD%ACfile%E7%B1%BB%E5%9E%8B/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81&amp;%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/%E5%89%8D%E7%AB%AFBase64%E8%BD%ACfile%E7%B1%BB%E5%9E%8B.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81&amp;%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/%E5%89%8D%E7%AB%AFBase64%E8%BD%ACfile%E7%B1%BB%E5%9E%8B.html</id>
     <published>2022-06-26T04:37:55.758Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="功能背景"><a href="#功能背景" class="headerlink" title="功能背景"></a>功能背景</h1><p>现有一个域名管理系统，需要上传申请原件（图片）到数据库，现在是将图片以二进制形式直接存储到数据库中。在执行修改操作时，后端返回给前端的为base64格式的照片，如果没有修改原件，重新上传后端使用MultipartFile就无法接收成功。所以需要将base64格式的照片重新转成file格式。</p><h1 id="base64直接转file"><a href="#base64直接转file" class="headerlink" title="base64直接转file"></a>base64直接转file</h1><p>这种方式可能存在兼容性问题。</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//将base64转换为文件</span></span><br><span class="line">    <span class="attr">dataURLtoFile</span>: <span class="keyword">function</span>(<span class="params">data, filename</span>) &#123; </span><br><span class="line">    <span class="keyword">var</span> arr = data.<span class="title function_">split</span>(<span class="string">&#x27;,&#x27;</span>),</span><br><span class="line">        mime = arr[<span class="number">0</span>].<span class="title function_">match</span>(<span class="regexp">/:(.*?);/</span>)[<span class="number">1</span>],</span><br><span class="line">        bstr = <span class="title function_">atob</span>(arr[<span class="number">1</span>]),</span><br><span class="line">        n = bstr.<span class="property">length</span>,</span><br><span class="line">        u8arr = <span class="keyword">new</span> <span class="title class_">Uint8Array</span>(n);</span><br><span class="line">    <span class="keyword">while</span> (n--) &#123;</span><br><span class="line">        u8arr[n] = bstr.<span class="title function_">charCodeAt</span>(n);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="keyword">new</span> <span class="title class_">File</span>([u8arr], filename, &#123; <span class="attr">type</span>: mime &#125;);</span><br><span class="line">&#125;,</span><br><span class="line">    <span class="comment">//调用</span></span><br><span class="line">    <span class="keyword">var</span> file = <span class="title function_">dataURLtoFile</span>(base64Data, imgName);</span><br><span class="line"></span><br></pre></td></tr></table></figure><h1 id="base64转成bolb，blob再转成file格式"><a href="#base64转成bolb，blob再转成file格式" class="headerlink" title="base64转成bolb，blob再转成file格式"></a>base64转成bolb，blob再转成file格式</h1><p>这种方式可以解决兼容性问题。</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//将base64转换为blob</span></span><br><span class="line"><span class="attr">baseToBlob</span>: <span class="keyword">function</span>(<span class="params">data</span>) &#123; </span><br><span class="line">    <span class="keyword">var</span> arr = data.<span class="title function_">split</span>(<span class="string">&#x27;,&#x27;</span>),</span><br><span class="line">        mime = arr[<span class="number">0</span>].<span class="title function_">match</span>(<span class="regexp">/:(.*?);/</span>)[<span class="number">1</span>],</span><br><span class="line">        bstr = <span class="title function_">atob</span>(arr[<span class="number">1</span>]),</span><br><span class="line">        n = bstr.<span class="property">length</span>,</span><br><span class="line">        u8arr = <span class="keyword">new</span> <span class="title class_">Uint8Array</span>(n);</span><br><span class="line">    <span class="keyword">while</span> (n--) &#123;</span><br><span class="line">        u8arr[n] = bstr.<span class="title function_">charCodeAt</span>(n);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="keyword">new</span> <span class="title class_">Blob</span>([u8arr], &#123; <span class="attr">type</span>: mime &#125;);</span><br><span class="line">&#125;,</span><br><span class="line"><span class="comment">//将blob转换为file</span></span><br><span class="line"><span class="attr">blobToFile</span>: <span class="keyword">function</span>(<span class="params">blob, fileName</span>)&#123;</span><br><span class="line">   blob.<span class="property">lastModifiedDate</span> = <span class="keyword">new</span> <span class="title class_">Date</span>();</span><br><span class="line">   blob.<span class="property">name</span> = fileName;</span><br><span class="line">   <span class="keyword">return</span> blob;</span><br><span class="line">&#125;,</span><br><span class="line"><span class="comment">//调用</span></span><br><span class="line"><span class="keyword">var</span> blob = <span class="title function_">baseToBlob</span>(base64Data);</span><br><span class="line"><span class="keyword">var</span> file = <span class="title function_">blobToFile</span>(blob, imgName);</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h1 id="功能背景"><a href="#功能背景" class="headerlink" title="功能背景"></a>功能背景</h1><p>现有一个域名管理系统，需要上传申请原件（图片）到数据库，现在是将图片以二进制形式直接存储到数据库中。在执行修改操作时，后端返回给前端的为base64格式的照片，如果没有修改原件，重新上传后端使用MultipartFile就无法接收成功。所以需要将base64格式的照片重新转成file格式。</p><h1 id="base64直接转file"><a href="#base64直接转file" class="headerlink" title="base64直接转file"></a>base64直接转file</h1><p>这种方式可能存在兼容性问题。</p><pre class="line-numbers language-javascript" data-language="javascript"><code class="language-javascript"><span class="token comment">//将base64转换为文件</span>    <span class="token function-variable function">dataURLtoFile</span><span class="token operator">:</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">data<span class="token punctuation">,</span> filename</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span>     <span class="token keyword">var</span> arr <span class="token operator">=</span> data<span class="token punctuation">.</span><span class="token function">split</span><span class="token punctuation">(</span><span class="token string">','</span><span class="token punctuation">)</span><span class="token punctuation">,</span>        mime <span class="token operator">=</span> arr<span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">.</span><span class="token function">match</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">:(.*?);</span><span class="token regex-delimiter">/</span></span><span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">,</span>        bstr <span class="token operator">=</span> <span class="token function">atob</span><span class="token punctuation">(</span>arr<span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">,</span>        n <span class="token operator">=</span> bstr<span class="token punctuation">.</span>length<span class="token punctuation">,</span>        u8arr <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Uint8Array</span><span class="token punctuation">(</span>n<span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token keyword">while</span> <span class="token punctuation">(</span>n<span class="token operator">--</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span>        u8arr<span class="token punctuation">[</span>n<span class="token punctuation">]</span> <span class="token operator">=</span> bstr<span class="token punctuation">.</span><span class="token function">charCodeAt</span><span class="token punctuation">(</span>n<span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token punctuation">&#125;</span>    <span class="token keyword">return</span> <span class="token keyword">new</span> <span class="token class-name">File</span><span class="token punctuation">(</span><span class="token punctuation">[</span>u8arr<span class="token punctuation">]</span><span class="token punctuation">,</span> filename<span class="token punctuation">,</span> <span class="token punctuation">&#123;</span> <span class="token literal-property property">type</span><span class="token operator">:</span> mime <span class="token punctuation">&#125;</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token punctuation">&#125;</span><span class="token punctuation">,</span>    <span class="token comment">//调用</span>    <span class="token keyword">var</span> file <span class="token operator">=</span> <span class="token function">dataURLtoFile</span><span class="token punctuation">(</span>base64Data<span class="token punctuation">,</span> imgName<span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h1 id="base64转成bolb，blob再转成file格式"><a href="#base64转成bolb，blob再转成file格式" class="headerlink" title="base64转成bolb，blob再转成file格式"></a>base64转成bolb，blob再转成file格式</h1><p>这种方式可以解决兼容性问题。</p><pre class="line-numbers language-javascript" data-language="javascript"><code class="language-javascript"><span class="token comment">//将base64转换为blob</span><span class="token function-variable function">baseToBlob</span><span class="token operator">:</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">data</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span>     <span class="token keyword">var</span> arr <span class="token operator">=</span> data<span class="token punctuation">.</span><span class="token function">split</span><span class="token punctuation">(</span><span class="token string">','</span><span class="token punctuation">)</span><span class="token punctuation">,</span>        mime <span class="token operator">=</span> arr<span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">.</span><span class="token function">match</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">:(.*?);</span><span class="token regex-delimiter">/</span></span><span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">,</span>        bstr <span class="token operator">=</span> <span class="token function">atob</span><span class="token punctuation">(</span>arr<span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">,</span>        n <span class="token operator">=</span> bstr<span class="token punctuation">.</span>length<span class="token punctuation">,</span>        u8arr <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Uint8Array</span><span class="token punctuation">(</span>n<span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token keyword">while</span> <span class="token punctuation">(</span>n<span class="token operator">--</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span>        u8arr<span class="token punctuation">[</span>n<span class="token punctuation">]</span> <span class="token operator">=</span> bstr<span class="token punctuation">.</span><span class="token function">charCodeAt</span><span class="token punctuation">(</span>n<span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token punctuation">&#125;</span>    <span class="token keyword">return</span> <span class="token keyword">new</span> <span class="token class-name">Blob</span><span class="token punctuation">(</span><span class="token punctuation">[</span>u8arr<span class="token punctuation">]</span><span class="token punctuation">,</span> <span class="token punctuation">&#123;</span> <span class="token literal-property property">type</span><span class="token operator">:</span> mime <span class="token punctuation">&#125;</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token punctuation">&#125;</span><span class="token punctuation">,</span><span class="token comment">//将blob转换为file</span><span class="token function-variable function">blobToFile</span><span class="token operator">:</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">blob<span class="token punctuation">,</span> fileName</span><span class="token punctuation">)</span><span class="token punctuation">&#123;</span>   blob<span class="token punctuation">.</span>lastModifiedDate <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Date</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>   blob<span class="token punctuation">.</span>name <span class="token operator">=</span> fileName<span class="token punctuation">;</span>   <span class="token keyword">return</span> blob<span class="token punctuation">;</span><span class="token punctuation">&#125;</span><span class="token punctuation">,</span><span class="token comment">//调用</span><span class="token keyword">var</span> blob <span class="token operator">=</span> <span class="token function">baseToBlob</span><span class="token punctuation">(</span>base64Data<span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token keyword">var</span> file <span class="token operator">=</span> <span class="token function">blobToFile</span><span class="token punctuation">(</span>blob<span class="token punctuation">,</span> imgName<span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
     
     
       
@@ -197,8 +174,8 @@
   
   <entry>
     <title>常用代码&amp;开发中的问题</title>
-    <link href="https://hyc-coderoad.github.io.git/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81&amp;%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/"/>
-    <id>https://hyc-coderoad.github.io.git/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81&amp;%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81&amp;%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81&amp;%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98.html</id>
     <published>2022-06-26T04:37:55.646Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
@@ -209,22 +186,9 @@
   </entry>
   
   <entry>
-    <title>其他</title>
-    <link href="https://hyc-coderoad.github.io.git/%E5%85%B6%E4%BB%96/"/>
-    <id>https://hyc-coderoad.github.io.git/%E5%85%B6%E4%BB%96/</id>
-    <published>2022-06-21T13:28:32.472Z</published>
-    <updated>2022-06-26T04:37:17.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Unity</title>
-    <link href="https://hyc-coderoad.github.io.git/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Unity/"/>
-    <id>https://hyc-coderoad.github.io.git/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Unity/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Unity.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Unity.html</id>
     <published>2022-06-21T13:03:30.015Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
@@ -236,8 +200,8 @@
   
   <entry>
     <title>C基础</title>
-    <link href="https://hyc-coderoad.github.io.git/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/C#%E5%9F%BA%E7%A1%80/"/>
-    <id>https://hyc-coderoad.github.io.git/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/C#%E5%9F%BA%E7%A1%80/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/C#%E5%9F%BA%E7%A1%80.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/C#%E5%9F%BA%E7%A1%80.html</id>
     <published>2022-06-21T13:03:30.012Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
@@ -256,8 +220,8 @@
   
   <entry>
     <title>Blender</title>
-    <link href="https://hyc-coderoad.github.io.git/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Blender/"/>
-    <id>https://hyc-coderoad.github.io.git/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Blender/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Blender.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Blender.html</id>
     <published>2022-06-21T13:03:30.011Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
@@ -269,8 +233,8 @@
   
   <entry>
     <title>语法</title>
-    <link href="https://hyc-coderoad.github.io.git/%E8%8B%B1%E8%AF%AD/%E8%AF%AD%E6%B3%95/"/>
-    <id>https://hyc-coderoad.github.io.git/%E8%8B%B1%E8%AF%AD/%E8%AF%AD%E6%B3%95/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/%E8%8B%B1%E8%AF%AD/%E8%AF%AD%E6%B3%95.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/%E8%8B%B1%E8%AF%AD/%E8%AF%AD%E6%B3%95.html</id>
     <published>2022-06-21T13:03:30.005Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
@@ -282,8 +246,8 @@
   
   <entry>
     <title>单词本</title>
-    <link href="https://hyc-coderoad.github.io.git/%E8%8B%B1%E8%AF%AD/%E5%8D%95%E8%AF%8D%E6%9C%AC/"/>
-    <id>https://hyc-coderoad.github.io.git/%E8%8B%B1%E8%AF%AD/%E5%8D%95%E8%AF%8D%E6%9C%AC/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/%E8%8B%B1%E8%AF%AD/%E5%8D%95%E8%AF%8D%E6%9C%AC.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/%E8%8B%B1%E8%AF%AD/%E5%8D%95%E8%AF%8D%E6%9C%AC.html</id>
     <published>2022-06-21T13:03:30.002Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
@@ -295,8 +259,8 @@
   
   <entry>
     <title>高等数学</title>
-    <link href="https://hyc-coderoad.github.io.git/%E6%95%B0%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/"/>
-    <id>https://hyc-coderoad.github.io.git/%E6%95%B0%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/%E6%95%B0%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/%E6%95%B0%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6.html</id>
     <published>2022-06-21T13:03:29.998Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
@@ -308,8 +272,8 @@
   
   <entry>
     <title>离散数学</title>
-    <link href="https://hyc-coderoad.github.io.git/%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/"/>
-    <id>https://hyc-coderoad.github.io.git/%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6.html</id>
     <published>2022-06-21T13:03:29.996Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
@@ -321,9 +285,35 @@
   
   <entry>
     <title>Redis</title>
-    <link href="https://hyc-coderoad.github.io.git/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/"/>
-    <id>https://hyc-coderoad.github.io.git/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/</id>
+    <link href="https://hyc-coderoad.github.io.git/post/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis.html</id>
     <published>2022-06-21T13:03:29.991Z</published>
+    <updated>2022-06-27T12:43:11.000Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Oracle</title>
+    <link href="https://hyc-coderoad.github.io.git/post/%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle.html</id>
+    <published>2022-06-21T13:03:29.989Z</published>
+    <updated>2022-06-27T12:43:11.000Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL</title>
+    <link href="https://hyc-coderoad.github.io.git/post/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html"/>
+    <id>https://hyc-coderoad.github.io.git/post/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html</id>
+    <published>2022-06-21T13:03:29.987Z</published>
     <updated>2022-06-27T12:43:11.000Z</updated>
     
     
