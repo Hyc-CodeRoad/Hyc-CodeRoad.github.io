@@ -6,7 +6,7 @@
   <link href="https://hyc-coderoad.github.io.git/atom.xml" rel="self"/>
   
   <link href="https://hyc-coderoad.github.io.git/"/>
-  <updated>2022-06-27T12:43:11.000Z</updated>
+  <updated>2022-07-10T13:13:36.227Z</updated>
   <id>https://hyc-coderoad.github.io.git/</id>
   
   <author>
@@ -17,308 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>工具</title>
-    <link href="https://hyc-coderoad.github.io.git/post/%E5%B7%A5%E5%85%B7.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/%E5%B7%A5%E5%85%B7.html</id>
-    <published>2022-06-27T12:43:32.818Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>JWT</title>
-    <link href="https://hyc-coderoad.github.io.git/post/%E5%B7%A5%E5%85%B7/JWT.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/%E5%B7%A5%E5%85%B7/JWT.html</id>
-    <published>2022-06-27T12:43:32.689Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="JWT"><a href="#JWT" class="headerlink" title="JWT"></a>JWT</h1><h2 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h2><h1 id="SpringBoot整合JWT"><a href="#SpringBoot整合JWT" class="headerlink" title="SpringBoot整合JWT"></a>SpringBoot整合JWT</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;JWT&quot;&gt;&lt;a href=&quot;#JWT&quot; class=&quot;headerlink&quot; title=&quot;JWT&quot;&gt;&lt;/a&gt;JWT&lt;/h1&gt;&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;h</summary>
-      
-    
-    
-    
-    <category term="工具" scheme="https://hyc-coderoad.github.io.git/categories/%E5%B7%A5%E5%85%B7/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Git</title>
     <link href="https://hyc-coderoad.github.io.git/post/%E5%B7%A5%E5%85%B7/Git.html"/>
     <id>https://hyc-coderoad.github.io.git/post/%E5%B7%A5%E5%85%B7/Git.html</id>
-    <published>2022-06-27T12:43:32.687Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
+    <published>2021-01-22T16:00:00.000Z</published>
+    <updated>2022-07-10T13:13:36.227Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Git概述"><a href="#Git概述" class="headerlink" title="Git概述"></a>Git概述</h1><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><h1 id="Git命令"><a href="#Git命令" class="headerlink" title="Git命令"></a>Git命令</h1>]]></content>
+    <content type="html"><![CDATA[<p>Git是目前世界上最先进的分布式版本控制。</p><p>在实际开发中很多命令的使用次数极少，并且Git的基础使用很简单，并且大多数开发工具已经集成Git，通过可视化的操作即可很方便的使用。但是我们依旧要学习Git，以便在某些特殊的时候使用和更好的理解他的原理。</p><span id="more"></span><h1 id="版本控制"><a href="#版本控制" class="headerlink" title="版本控制"></a>版本控制</h1><p>版本控制是一种在开发的过程中用于管理我们对文件，目录或工程等内容的修改历史，方便查看更改历史记录，备份以便恢复到以前版本的软件工程技术。</p><ul><li>实现跨区域多人协同开发</li><li>追踪和记载一个或者多个文件的历史记录</li><li>组织和保护你的源代码和文档</li><li>统计工作量</li><li>并行开发，提高开发效率</li><li>跟踪记录整个软件的开发过程</li><li>减轻开发人员的负担，节省时间，同时降低人为错误</li></ul><p>主流的版本控制工具：Git，SVN，CVS，VSS，TFS。版本控制的工具有很多，其中影响力最大且使用范围最广的是Git。</p><p><strong>分类：</strong></p><ol><li>本地版本控制：就是文件的每次跟新，可以对每个版本做一个快照，或是记录补丁文件，适合个人使用，如RCS。</li><li>集中版本控制：所有的版本数据都保存在服务器上，协同开发者从服务器上同步更行或上传自己的修改，用户本地只有以前的版本，需要联网才能进行一系列操作，并且服务器损坏就会失去所有数据，如：SVN，CVS，VSS。</li><li>分布式版本控制：所有的版本信息都同步到本地的每一个用户，每个人都有全部的代码，可以离线操作，服务器只是为了方便代码的合并。如：Git。</li></ol><h1 id="Git简介"><a href="#Git简介" class="headerlink" title="Git简介"></a>Git简介</h1><p>Git是目前世界上最先进的分布式版本控制。</p><h2 id="Git历史"><a href="#Git历史" class="headerlink" title="Git历史"></a>Git历史</h2><p>2002年，Linux内核的开源项目有众多的参与者。绝大多数的Linux维护工作都在提交补丁和保存归档的繁琐事务上。Linux发展了10年，代码库非常庞大，很难再通过手工方式管理。当时有很多集中版本控制工具，但是他们必须联网才能使用吗，并且速度慢，就没有使用。</p><p>于是选择了商业版本的控制系统BitKeeper，BitKeeper出于人道主义精神，授权Linux社区免费使用。</p><p>2005年，Linux社区牛人试图破解BitKeeper的协议，被发现，便收回了免费使用权。</p><p>Linus便花了两周时间开发了一个分布式版本控制系统——Git。Git迅速成为了最流行的分布式管理工具。</p><p>2008年，GitHub上线，并为开源项目提供免费的Git存储，无数的开源项目迁移到GitHUb。</p><h2 id="安装Git"><a href="#安装Git" class="headerlink" title="安装Git"></a>安装Git</h2><p>官网：<a href="https://git-scm.com/">Git (git-scm.com)</a></p><ol><li>下载对应操作系统的版本。</li><li>终端输入<code>git</code> 查看是否已安装。</li></ol><h3 id="WIndows"><a href="#WIndows" class="headerlink" title="WIndows"></a>WIndows</h3><p>下载完成以后，无脑下一步即可。</p><h3 id="Linux"><a href="#Linux" class="headerlink" title="Linux"></a>Linux</h3><p>官网下载源码然后依次输入：<code>.config</code> ，<code>make</code>，<code>sudo make install</code></p><h3 id="Mac"><a href="#Mac" class="headerlink" title="Mac"></a>Mac</h3><p>通过HomeBrew方式安装（推荐）：</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">brew <span class="token function">install</span> <span class="token function">git</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h1 id="Git配置"><a href="#Git配置" class="headerlink" title="Git配置"></a>Git配置</h1><h2 id="查看Git配置"><a href="#查看Git配置" class="headerlink" title="查看Git配置"></a>查看Git配置</h2><ul><li>查看全部配置：<code>git config -l</code></li><li>查看系统配置：<code>git config --system --list</code></li><li>查看用户配置：<code>git config --global --list</code></li></ul><h2 id="设置用户名与邮箱（用户标识，必要）"><a href="#设置用户名与邮箱（用户标识，必要）" class="headerlink" title="设置用户名与邮箱（用户标识，必要）"></a>设置用户名与邮箱（用户标识，必要）</h2><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">git</span> config --global user.name <span class="token string">"用户名"</span><span class="token function">git</span> config --global user.email <span class="token string">"邮箱"</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h1 id="Git基本原理"><a href="#Git基本原理" class="headerlink" title="Git基本原理"></a>Git基本原理</h1><h2 id="工作区域"><a href="#工作区域" class="headerlink" title="工作区域"></a>工作区域</h2><p>Git本地有三个工作区域：工作目录，暂存区，资源库。如果再加上远程git仓库就可以分为四个工作区域。</p><ul><li>Workspace：工作区，就是你本地存放代码的地方</li><li>Index/Stage：暂存区，用于临时存放你的改动，事实上他是一个文件，保存即将提交到文件列表信息</li><li>Repository：仓库区（本地仓库），就是安全存放数据的位置，这里面有你提交的所有版本数据。其中HEAD指向最新放入仓库的版本。</li><li>Remote：远程仓库，托管代码的服务器，可以简单的认为是项目中一和你同时交换代码的地方。</li></ul><h2 id="工作流程"><a href="#工作流程" class="headerlink" title="工作流程"></a>工作流程</h2><ol><li>再工作目录中添加，修改文件</li><li>将需要进行版本管理的文件放入暂存区</li><li>将暂存区的文件提交到git仓库</li></ol><p>因此Git管理的文件有三种状态：已修改，已暂存，已提交。</p><h1 id="Git的基本使用"><a href="#Git的基本使用" class="headerlink" title="Git的基本使用"></a>Git的基本使用</h1><p>这里面的操作将是实际开发中最常使用的操作。</p><h2 id="搭建Git仓库"><a href="#搭建Git仓库" class="headerlink" title="搭建Git仓库"></a>搭建Git仓库</h2><h3 id="本地搭建仓库"><a href="#本地搭建仓库" class="headerlink" title="本地搭建仓库"></a>本地搭建仓库</h3><p>新建一个文件夹/在已有文件夹中初始化Git仓库：<code>git init</code> 。</p><blockquote><span class="custom-blockquote-svg"><svg width="24" height="24" viewBox="0 0 24 24" fill="" xmlns="http://www.w3.org/2000/svg" data-reactroot=""><path fill="" d="M22 12C22 6.5 17.5 2 12 2C6.5 2 2 6.5 2 12C2 17.5 6.5 22 12 22C13.8 22 15.5 21.5 17 20.6L22 22L20.7 17C21.5 15.5 22 13.8 22 12Z" undefined="1"></path><path fill="" d="M15.97 11.5H16.04C17.12 11.5 18 12.38 18 13.47V13.53C18 14.62 17.12 15.5 16.03 15.5H15.96C14.88 15.5 14 14.62 14 13.53V13.46C14 12.38 14.88 11.5 15.97 11.5Z" undefined="1"></path><path fill="" d="M7.97 11.5H8.04C9.12 11.5 10 12.38 10 13.47V13.53C10 14.62 9.12 15.5 8.03 15.5H7.97C6.88 15.5 6 14.62 6 13.53V13.46C6 12.38 6.88 11.5 7.97 11.5Z" undefined="1"></path><path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke="" d="M17 8.5C15.23 8.97 14.07 10.84 14.01 13.27C14 13.33 14 13.4 14 13.47V13.5"></path><path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke="" d="M9 8.5C7.23 8.97 6.07 10.84 6.01 13.27C6 13.33 6 13.4 6 13.47V13.5"></path><path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke="" d="M15.97 11.5H16.04C17.12 11.5 18 12.38 18 13.47V13.53C18 14.62 17.12 15.5 16.03 15.5H15.96C14.88 15.5 14 14.62 14 13.53V13.46C14 12.38 14.88 11.5 15.97 11.5Z"></path><path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke="" d="M7.97 11.5H8.04C9.12 11.5 10 12.38 10 13.47V13.53C10 14.62 9.12 15.5 8.03 15.5H7.97C6.88 15.5 6 14.62 6 13.53V13.46C6 12.38 6.88 11.5 7.97 11.5Z"></path></svg></span><p>执行完成后会生成一个.git文件（需要打开隐藏目录才能看见）。</p></blockquote><h3 id="克隆远程仓库（拉取代码）、"><a href="#克隆远程仓库（拉取代码）、" class="headerlink" title="克隆远程仓库（拉取代码）、"></a>克隆远程仓库（拉取代码）、</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">git</span> clone <span class="token punctuation">[</span>远程仓库地址<span class="token punctuation">]</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h2 id="Git文件操作"><a href="#Git文件操作" class="headerlink" title="Git文件操作"></a>Git文件操作</h2><h3 id="文件4种状态"><a href="#文件4种状态" class="headerlink" title="文件4种状态"></a>文件4种状态</h3><ul><li>Untracked：未跟踪。此文件在文件夹中，但是并没有加入git库中，通过<code>git add</code> 将状态改为Staged</li><li>Unmodify：文件已经入库，未修改。如果修改了状态变成Modified。可以使用<code>git rm</code> 命令移除版本库，则成为Untracked文件</li><li>Modified：文件已修改，仅仅是修改了文件，没有进行其他操作。可以通过<code>git add</code> 命令加入暂存区，修改为staged状态。可以使用<code>git checkout</code> 命令丢弃修改，返回unmodify状态，<code>git checkout</code> 即为从库中取出文件，覆盖当前修改。</li><li>Staged：暂存状态，执行<code>git commit</code> 则将修改同步到库中，这是库中文件和本地文件变为一致，文件为unmodify状态。执行<code>git reset HEAD filename</code> 取消暂存。</li></ul><h3 id="查看文件状态"><a href="#查看文件状态" class="headerlink" title="查看文件状态"></a>查看文件状态</h3><ul><li>查看指定文件状态：<code>git status &lt;filename&gt;</code></li><li>查看所有文件状态：<code>git status</code></li></ul><h3 id="添加到暂存区和提交到本地仓库"><a href="#添加到暂存区和提交到本地仓库" class="headerlink" title="添加到暂存区和提交到本地仓库"></a>添加到暂存区和提交到本地仓库</h3><ul><li>添加到暂存区</li></ul><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">git</span> <span class="token function">add</span> <span class="token builtin class-name">.</span>             <span class="token comment"># 提交所有文件到暂存区</span><span class="token function">git</span> <span class="token function">add</span> <span class="token operator">&lt;</span>filename<span class="token operator">></span>    <span class="token comment"># 提交指定文件到暂存区</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><ul><li>提交到本地仓库</li></ul><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">git</span> commit -m <span class="token string">"提交信息"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="提交到远程仓库"><a href="#提交到远程仓库" class="headerlink" title="提交到远程仓库"></a>提交到远程仓库</h3><ol><li>本地和远程仓库建立连接：<code>git remote add origin 远程地址</code></li><li>提交到远程仓库：<code> git push -u origin master</code> ，提交到远程的master分支</li></ol><h3 id="忽略文件"><a href="#忽略文件" class="headerlink" title="忽略文件"></a>忽略文件</h3><p>有些时候我们不需要将有些文件提交到版本库中，比如数据库文件，临时文件，设计文件等</p><p>git仓库主目录下建立.gitignore文件，此文件规则：</p><ol><li>忽略文件中的空行或以井号开头的行</li><li>可以使用Linux通配符，如：星号代表任意字符就，问号代表一个字符，方括号代表可选字符范围，大括号代表可选的字符串等</li><li>如果名称的最前面是一个感叹号，表示例外规则，将不被忽略</li><li>如果名称的最前面是一个斜杠，表示忽略的文件在此目录下，而子目录中的文件不忽略</li><li>如果名称的最后面是一个斜杠，则忽略该目录下的子目录，而非文件（前后都没有斜杠则都忽略）</li></ol><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">*.txt    <span class="token comment"># 忽略所有.txt结尾文件</span><span class="token operator">!</span>test.txt    <span class="token comment"># test.txt除外</span>/temp    <span class="token comment"># 仅忽略temp跟目录下的文件，不包括其中的子目录</span>build/    <span class="token comment"># 忽略build下的子目录，不包括文件</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h1 id=&quot;Git概述&quot;&gt;&lt;a href=&quot;#Git概述&quot; class=&quot;headerlink&quot; title=&quot;Git概述&quot;&gt;&lt;/a&gt;Git概述&lt;/h1&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简</summary>
-      
+    <summary type="html">&lt;p&gt;Git是目前世界上最先进的分布式版本控制。&lt;/p&gt;
+&lt;p&gt;在实际开发中很多命令的使用次数极少，并且Git的基础使用很简单，并且大多数开发工具已经集成Git，通过可视化的操作即可很方便的使用。但是我们依旧要学习Git，以便在某些特殊的时候使用和更好的理解他的原理。&lt;/p&gt;</summary>
     
     
     
     <category term="工具" scheme="https://hyc-coderoad.github.io.git/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://hyc-coderoad.github.io.git/post/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java9.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java9.html</id>
-    <published>2022-06-27T12:43:32.656Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
+    <category term="开发工具" scheme="https://hyc-coderoad.github.io.git/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
     
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://hyc-coderoad.github.io.git/post/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java8.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java8.html</id>
-    <published>2022-06-27T12:43:32.654Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://hyc-coderoad.github.io.git/post/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java11.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java11.html</id>
-    <published>2022-06-27T12:43:32.652Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://hyc-coderoad.github.io.git/post/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java10.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7/Java10.html</id>
-    <published>2022-06-27T12:43:32.650Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>NavPage</title>
-    <link href="https://hyc-coderoad.github.io.git/post/NavPage.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/NavPage.html</id>
-    <published>2022-06-27T12:43:32.573Z</published>
-    <updated>2022-06-27T12:43:10.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>学习笔记，以及工作和实际开发中所遇到的问题。</p><span id="more"></span><table><thead><tr><th align="center">💻计算机专业课</th><th align="center">☕Java</th><th align="center">🖥数据库<br /></th><th align="center">🌐前端</th><th align="center">🎮游戏开发</th></tr></thead><tbody><tr><td align="center"><a href="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F">操作系统</a></td><td align="center"><a href="/Java/Java%E5%9F%BA%E7%A1%80">Java基础</a><br /></td><td align="center"><a href="/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL">MySQL</a></td><td align="center"><a href="/%E5%89%8D%E7%AB%AF/HTML%E5%92%8CCSS">HTML和CSS</a></td><td align="center"><a href="/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/C#%E5%9F%BA%E7%A1%80">C#基础</a></td></tr><tr><td align="center"><a href="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95">数据结构和算法</a></td><td align="center"><a href="/Java/JavaEE">JavaEE阶段</a><br /></td><td align="center"><a href="/%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle">Oracle<br /></a></td><td align="center"><a href="/%E5%89%8D%E7%AB%AF/JavaScript">JavaScript</a><br /></td><td align="center"><a href="/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Unity">Unity</a><br /></td></tr><tr><td align="center"><a href="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F">设计模式</a></td><td align="center"><a href="/Java/Spring">Spring</a><br /></td><td align="center"><a href="/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis">Redis</a><br /></td><td align="center"><a href="/%E5%89%8D%E7%AB%AF/Vue">Vue</a><br /></td><td align="center"><a href="/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Blender">Blender</a><br /></td></tr><tr><td align="center"><a href="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C">计算机网络</a></td><td align="center"><a href="/Java/SpringMVC">SpringMVC</a></td><td align="center"><br /></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"><a href="/Java/MyBatis">MyBatis</a><br /></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"><a href="/Java/SpringBoot">SpringBoot</a><br /></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"><a href="/Java/MyBatis-Plus">MyBatis-Plus</a><br /></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"><a href="/Java/JVM">JVM</a></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"><a href="/Java/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7">Java版本新特性</a><br /></td><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table><p><a href="/">​</a></p><table><thead><tr><th align="center">⌨Python</th><th align="center">📏数学</th><th align="center">📄</th><th align="center">🖱常用代码&amp;开发中的问题</th><th align="center">🖇工具</th></tr></thead><tbody><tr><td align="center"><a href="/Python/Python%E5%9F%BA%E7%A1%80">Python基础</a></td><td align="center"><a href="/%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6">离散数学</a></td><td align="center"></td><td align="center"><a href="/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81&%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/%E5%89%8D%E7%AB%AFBase64%E8%BD%ACfile%E7%B1%BB%E5%9E%8B">前端base64转file类型</a><br /></td><td align="center"><a href="/%E5%B7%A5%E5%85%B7/Git">Git</a></td></tr><tr><td align="center"><a href="/Python/Python%E7%88%AC%E8%99%AB">Python爬虫</a><br /></td><td align="center"><a href="/%E6%95%B0%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6">高等数学</a><br /></td><td align="center"><a href="/%E8%8B%B1%E8%AF%AD/%E8%AF%AD%E6%B3%95"><br /></a></td><td align="center"></td><td align="center"><a href="/%E5%B7%A5%E5%85%B7/JWT">JWT</a></td></tr></tbody></table>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;学习笔记，以及工作和实际开发中所遇到的问题。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="置顶" scheme="https://hyc-coderoad.github.io.git/tags/%E7%BD%AE%E9%A1%B6/"/>
-    
-    <category term="主目录" scheme="https://hyc-coderoad.github.io.git/tags/%E4%B8%BB%E7%9B%AE%E5%BD%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>前端Base64转file类型</title>
-    <link href="https://hyc-coderoad.github.io.git/post/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81&amp;%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/%E5%89%8D%E7%AB%AFBase64%E8%BD%ACfile%E7%B1%BB%E5%9E%8B.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81&amp;%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/%E5%89%8D%E7%AB%AFBase64%E8%BD%ACfile%E7%B1%BB%E5%9E%8B.html</id>
-    <published>2022-06-26T04:37:55.758Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="功能背景"><a href="#功能背景" class="headerlink" title="功能背景"></a>功能背景</h1><p>现有一个域名管理系统，需要上传申请原件（图片）到数据库，现在是将图片以二进制形式直接存储到数据库中。在执行修改操作时，后端返回给前端的为base64格式的照片，如果没有修改原件，重新上传后端使用MultipartFile就无法接收成功。所以需要将base64格式的照片重新转成file格式。</p><h1 id="base64直接转file"><a href="#base64直接转file" class="headerlink" title="base64直接转file"></a>base64直接转file</h1><p>这种方式可能存在兼容性问题。</p><pre class="line-numbers language-javascript" data-language="javascript"><code class="language-javascript"><span class="token comment">//将base64转换为文件</span>    <span class="token function-variable function">dataURLtoFile</span><span class="token operator">:</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">data<span class="token punctuation">,</span> filename</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span>     <span class="token keyword">var</span> arr <span class="token operator">=</span> data<span class="token punctuation">.</span><span class="token function">split</span><span class="token punctuation">(</span><span class="token string">','</span><span class="token punctuation">)</span><span class="token punctuation">,</span>        mime <span class="token operator">=</span> arr<span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">.</span><span class="token function">match</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">:(.*?);</span><span class="token regex-delimiter">/</span></span><span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">,</span>        bstr <span class="token operator">=</span> <span class="token function">atob</span><span class="token punctuation">(</span>arr<span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">,</span>        n <span class="token operator">=</span> bstr<span class="token punctuation">.</span>length<span class="token punctuation">,</span>        u8arr <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Uint8Array</span><span class="token punctuation">(</span>n<span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token keyword">while</span> <span class="token punctuation">(</span>n<span class="token operator">--</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span>        u8arr<span class="token punctuation">[</span>n<span class="token punctuation">]</span> <span class="token operator">=</span> bstr<span class="token punctuation">.</span><span class="token function">charCodeAt</span><span class="token punctuation">(</span>n<span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token punctuation">&#125;</span>    <span class="token keyword">return</span> <span class="token keyword">new</span> <span class="token class-name">File</span><span class="token punctuation">(</span><span class="token punctuation">[</span>u8arr<span class="token punctuation">]</span><span class="token punctuation">,</span> filename<span class="token punctuation">,</span> <span class="token punctuation">&#123;</span> <span class="token literal-property property">type</span><span class="token operator">:</span> mime <span class="token punctuation">&#125;</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token punctuation">&#125;</span><span class="token punctuation">,</span>    <span class="token comment">//调用</span>    <span class="token keyword">var</span> file <span class="token operator">=</span> <span class="token function">dataURLtoFile</span><span class="token punctuation">(</span>base64Data<span class="token punctuation">,</span> imgName<span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h1 id="base64转成bolb，blob再转成file格式"><a href="#base64转成bolb，blob再转成file格式" class="headerlink" title="base64转成bolb，blob再转成file格式"></a>base64转成bolb，blob再转成file格式</h1><p>这种方式可以解决兼容性问题。</p><pre class="line-numbers language-javascript" data-language="javascript"><code class="language-javascript"><span class="token comment">//将base64转换为blob</span><span class="token function-variable function">baseToBlob</span><span class="token operator">:</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">data</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span>     <span class="token keyword">var</span> arr <span class="token operator">=</span> data<span class="token punctuation">.</span><span class="token function">split</span><span class="token punctuation">(</span><span class="token string">','</span><span class="token punctuation">)</span><span class="token punctuation">,</span>        mime <span class="token operator">=</span> arr<span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">.</span><span class="token function">match</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">:(.*?);</span><span class="token regex-delimiter">/</span></span><span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">,</span>        bstr <span class="token operator">=</span> <span class="token function">atob</span><span class="token punctuation">(</span>arr<span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">,</span>        n <span class="token operator">=</span> bstr<span class="token punctuation">.</span>length<span class="token punctuation">,</span>        u8arr <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Uint8Array</span><span class="token punctuation">(</span>n<span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token keyword">while</span> <span class="token punctuation">(</span>n<span class="token operator">--</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span>        u8arr<span class="token punctuation">[</span>n<span class="token punctuation">]</span> <span class="token operator">=</span> bstr<span class="token punctuation">.</span><span class="token function">charCodeAt</span><span class="token punctuation">(</span>n<span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token punctuation">&#125;</span>    <span class="token keyword">return</span> <span class="token keyword">new</span> <span class="token class-name">Blob</span><span class="token punctuation">(</span><span class="token punctuation">[</span>u8arr<span class="token punctuation">]</span><span class="token punctuation">,</span> <span class="token punctuation">&#123;</span> <span class="token literal-property property">type</span><span class="token operator">:</span> mime <span class="token punctuation">&#125;</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token punctuation">&#125;</span><span class="token punctuation">,</span><span class="token comment">//将blob转换为file</span><span class="token function-variable function">blobToFile</span><span class="token operator">:</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">blob<span class="token punctuation">,</span> fileName</span><span class="token punctuation">)</span><span class="token punctuation">&#123;</span>   blob<span class="token punctuation">.</span>lastModifiedDate <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Date</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>   blob<span class="token punctuation">.</span>name <span class="token operator">=</span> fileName<span class="token punctuation">;</span>   <span class="token keyword">return</span> blob<span class="token punctuation">;</span><span class="token punctuation">&#125;</span><span class="token punctuation">,</span><span class="token comment">//调用</span><span class="token keyword">var</span> blob <span class="token operator">=</span> <span class="token function">baseToBlob</span><span class="token punctuation">(</span>base64Data<span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token keyword">var</span> file <span class="token operator">=</span> <span class="token function">blobToFile</span><span class="token punctuation">(</span>blob<span class="token punctuation">,</span> imgName<span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;功能背景&quot;&gt;&lt;a href=&quot;#功能背景&quot; class=&quot;headerlink&quot; title=&quot;功能背景&quot;&gt;&lt;/a&gt;功能背景&lt;/h1&gt;&lt;p&gt;现有一个域名管理系统，需要上传申请原件（图片）到数据库，现在是将图片以二进制形式直接存储到数据库中。在执行修改操作时，后端返</summary>
-      
-    
-    
-    
-    <category term="常用代码&amp;开发中的问题" scheme="https://hyc-coderoad.github.io.git/categories/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81-%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/"/>
-    
-    
-    <category term="前端" scheme="https://hyc-coderoad.github.io.git/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-    <category term="前端问题解决" scheme="https://hyc-coderoad.github.io.git/tags/%E5%89%8D%E7%AB%AF%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>常用代码&amp;开发中的问题</title>
-    <link href="https://hyc-coderoad.github.io.git/post/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81&amp;%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81&amp;%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98.html</id>
-    <published>2022-06-26T04:37:55.646Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Unity</title>
-    <link href="https://hyc-coderoad.github.io.git/post/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Unity.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Unity.html</id>
-    <published>2022-06-21T13:03:30.015Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>C基础</title>
-    <link href="https://hyc-coderoad.github.io.git/post/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/C#%E5%9F%BA%E7%A1%80.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/C#%E5%9F%BA%E7%A1%80.html</id>
-    <published>2022-06-21T13:03:30.012Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="C-概述"><a href="#C-概述" class="headerlink" title="C#概述"></a>C#概述</h1><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>C#（See Sharp），是一种新式编程语言，不仅面向对象还类型安全。开发人员利用 C# 能够生成在 .NET 中运行的多种安全可靠的应用程序。</p><p>C#是面向对象，面向组件的编程语言。C# 提供了语言构造来直接支持这些概念，让 C# 成为一种非常自然的语言，可用于创建和使用软件组件。 自诞生之日起，C# 就添加了支持新工作负载和新兴软件设计实践的功能。 C# 本质上是面向对象的语言。 你需要定义类型及其行为。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;C-概述&quot;&gt;&lt;a href=&quot;#C-概述&quot; class=&quot;headerlink&quot; title=&quot;C#概述&quot;&gt;&lt;/a&gt;C#概述&lt;/h1&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Blender</title>
-    <link href="https://hyc-coderoad.github.io.git/post/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Blender.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/Blender.html</id>
-    <published>2022-06-21T13:03:30.011Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>语法</title>
-    <link href="https://hyc-coderoad.github.io.git/post/%E8%8B%B1%E8%AF%AD/%E8%AF%AD%E6%B3%95.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/%E8%8B%B1%E8%AF%AD/%E8%AF%AD%E6%B3%95.html</id>
-    <published>2022-06-21T13:03:30.005Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>单词本</title>
-    <link href="https://hyc-coderoad.github.io.git/post/%E8%8B%B1%E8%AF%AD/%E5%8D%95%E8%AF%8D%E6%9C%AC.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/%E8%8B%B1%E8%AF%AD/%E5%8D%95%E8%AF%8D%E6%9C%AC.html</id>
-    <published>2022-06-21T13:03:30.002Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>高等数学</title>
-    <link href="https://hyc-coderoad.github.io.git/post/%E6%95%B0%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/%E6%95%B0%E5%AD%A6/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6.html</id>
-    <published>2022-06-21T13:03:29.998Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>离散数学</title>
-    <link href="https://hyc-coderoad.github.io.git/post/%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6.html</id>
-    <published>2022-06-21T13:03:29.996Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Redis</title>
-    <link href="https://hyc-coderoad.github.io.git/post/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis.html</id>
-    <published>2022-06-21T13:03:29.991Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Oracle</title>
-    <link href="https://hyc-coderoad.github.io.git/post/%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle.html</id>
-    <published>2022-06-21T13:03:29.989Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>MySQL</title>
-    <link href="https://hyc-coderoad.github.io.git/post/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html</id>
-    <published>2022-06-21T13:03:29.987Z</published>
-    <updated>2022-06-27T12:43:11.000Z</updated>
-    
-    
-    
-    
+    <category term="版本控制" scheme="https://hyc-coderoad.github.io.git/tags/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/"/>
     
   </entry>
   
