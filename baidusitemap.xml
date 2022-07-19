@@ -5,11 +5,11 @@
     <lastmod>2022-07-19</lastmod>
   </url>
   <url>
-    <loc>http://example.com//post/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7&%E6%8A%80%E6%9C%AF/Maven.html</loc>
+    <loc>http://example.com//post/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7&%E6%8A%80%E6%9C%AF/Git.html</loc>
     <lastmod>2022-07-19</lastmod>
   </url>
   <url>
-    <loc>http://example.com//post/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7&%E6%8A%80%E6%9C%AF/Git.html</loc>
+    <loc>http://example.com//post/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7&%E6%8A%80%E6%9C%AF/Maven.html</loc>
     <lastmod>2022-07-19</lastmod>
   </url>
   <url>
@@ -21,11 +21,11 @@
     <lastmod>2022-07-19</lastmod>
   </url>
   <url>
-    <loc>http://example.com//post/%E6%95%B0%E6%8D%AE%E5%BA%93/NoSQL/Redis/Redis%E5%9F%BA%E7%A1%80.html</loc>
+    <loc>http://example.com//post/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/MySQL%E5%9F%BA%E7%A1%80.html</loc>
     <lastmod>2022-07-19</lastmod>
   </url>
   <url>
-    <loc>http://example.com//post/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/MySQL%E5%9F%BA%E7%A1%80.html</loc>
+    <loc>http://example.com//post/%E6%95%B0%E6%8D%AE%E5%BA%93/NoSQL/Redis/Redis%E5%9F%BA%E7%A1%80.html</loc>
     <lastmod>2022-07-19</lastmod>
   </url>
   <url>
@@ -37,15 +37,11 @@
     <lastmod>2022-07-19</lastmod>
   </url>
   <url>
-    <loc>http://example.com//post/Java/Java%E5%9F%BA%E7%A1%80/JDBC.html</loc>
+    <loc>http://example.com//post/Java/Java%E5%9F%BA%E7%A1%80/JavaSE.html</loc>
     <lastmod>2022-07-19</lastmod>
   </url>
   <url>
     <loc>http://example.com//post/Java/Java%E5%9F%BA%E7%A1%80/JavaEE.html</loc>
-    <lastmod>2022-07-19</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com//post/Java/Java%E5%9F%BA%E7%A1%80/JavaSE.html</loc>
     <lastmod>2022-07-19</lastmod>
   </url>
   <url>
@@ -61,19 +57,11 @@
     <lastmod>2022-07-19</lastmod>
   </url>
   <url>
-    <loc>http://example.com//post/Java/Java%E8%BF%9B%E9%98%B6/MyBatis-Plus.html</loc>
-    <lastmod>2022-07-19</lastmod>
-  </url>
-  <url>
     <loc>http://example.com//post/Java/Java%E8%BF%9B%E9%98%B6/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.html</loc>
     <lastmod>2022-07-19</lastmod>
   </url>
   <url>
-    <loc>http://example.com//post/Java/Java%E8%BF%9B%E9%98%B6/MyBatis.html</loc>
-    <lastmod>2022-07-19</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com//post/Java/Java%E8%BF%9B%E9%98%B6/Spring.html</loc>
+    <loc>http://example.com//post/Java/Java%E8%BF%9B%E9%98%B6/MyBatis-Plus.html</loc>
     <lastmod>2022-07-19</lastmod>
   </url>
   <url>
@@ -81,11 +69,23 @@
     <lastmod>2022-07-19</lastmod>
   </url>
   <url>
-    <loc>http://example.com//post/Java/Java%E8%BF%9B%E9%98%B6/SpringMVC.html</loc>
+    <loc>http://example.com//post/Java/Java%E5%9F%BA%E7%A1%80/JDBC.html</loc>
+    <lastmod>2022-07-19</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com//post/Java/Java%E8%BF%9B%E9%98%B6/MyBatis.html</loc>
     <lastmod>2022-07-19</lastmod>
   </url>
   <url>
     <loc>http://example.com//post/Java/Java%E8%BF%9B%E9%98%B6/SpringBoot.html</loc>
+    <lastmod>2022-07-19</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com//post/Java/Java%E8%BF%9B%E9%98%B6/SpringMVC.html</loc>
+    <lastmod>2022-07-19</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com//post/Java/Java%E8%BF%9B%E9%98%B6/Spring.html</loc>
     <lastmod>2022-07-19</lastmod>
   </url>
   <url>
