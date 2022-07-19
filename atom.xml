@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>HycBlog</title>
+  <title>Hyc</title>
   
   
-  <link href="https://hyc-coderoad.github.io.git/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://hyc-coderoad.github.io.git/"/>
-  <updated>2022-07-10T13:13:36.227Z</updated>
-  <id>https://hyc-coderoad.github.io.git/</id>
+  <link href="http://example.com/"/>
+  <updated>2022-07-19T12:33:33.000Z</updated>
+  <id>http://example.com/</id>
   
   <author>
     <name>Hyc</name>
@@ -17,26 +17,346 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>LeetCode刷题</title>
+    <link href="http://example.com/post/%E9%9D%A2%E8%AF%95&amp;%E5%88%B7%E9%A2%98/LeetCode%E5%88%B7%E9%A2%98.html"/>
+    <id>http://example.com/post/%E9%9D%A2%E8%AF%95&amp;%E5%88%B7%E9%A2%98/LeetCode%E5%88%B7%E9%A2%98.html</id>
+    <published>2022-07-19T12:33:50.143Z</published>
+    <updated>2022-07-19T12:33:33.000Z</updated>
+    
+    
+    
+    
+    <category term="面试&amp;刷题" scheme="http://example.com/categories/%E9%9D%A2%E8%AF%95-%E5%88%B7%E9%A2%98/"/>
+    
+    
+    <category term="数据结构和算法" scheme="http://example.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux</title>
+    <link href="http://example.com/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Linux.html"/>
+    <id>http://example.com/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Linux.html</id>
+    <published>2022-07-19T12:33:50.143Z</published>
+    <updated>2022-07-19T12:33:32.000Z</updated>
+    
+    
+    
+    
+    
+    <category term="操作系统" scheme="http://example.com/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    <category term="服务器部署" scheme="http://example.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%83%A8%E7%BD%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>操作系统</title>
+    <link href="http://example.com/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.html"/>
+    <id>http://example.com/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.html</id>
+    <published>2022-07-19T12:33:50.143Z</published>
+    <updated>2022-07-19T12:33:32.000Z</updated>
+    
+    
+    
+    
+    <category term="计算机专业课" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+    
+    <category term="编程四大件" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B%E5%9B%9B%E5%A4%A7%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式</title>
+    <link href="http://example.com/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.html"/>
+    <id>http://example.com/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.html</id>
+    <published>2022-07-19T12:33:50.143Z</published>
+    <updated>2022-07-19T12:33:33.000Z</updated>
+    
+    
+    
+    
+    <category term="计算机专业课" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+    
+    <category term="编程四大件" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B%E5%9B%9B%E5%A4%A7%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机网络</title>
+    <link href="http://example.com/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.html"/>
+    <id>http://example.com/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.html</id>
+    <published>2022-07-19T12:33:50.143Z</published>
+    <updated>2022-07-19T12:33:32.000Z</updated>
+    
+    
+    
+    
+    <category term="计算机专业课" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+    
+    <category term="编程四大件" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B%E5%9B%9B%E5%A4%A7%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据结构和算法</title>
+    <link href="http://example.com/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95.html"/>
+    <id>http://example.com/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95.html</id>
+    <published>2022-07-19T12:33:50.143Z</published>
+    <updated>2022-07-19T12:33:32.000Z</updated>
+    
+    
+    
+    
+    <category term="计算机专业课" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+    
+    <category term="编程四大件" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B%E5%9B%9B%E5%A4%A7%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Oracle</title>
+    <link href="http://example.com/post/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle/Oracle.html"/>
+    <id>http://example.com/post/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle/Oracle.html</id>
+    <published>2022-07-19T12:33:50.143Z</published>
+    <updated>2022-07-19T12:33:33.000Z</updated>
+    
+    
+    
+    
+    <category term="数据库" scheme="http://example.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="关系型数据库" scheme="http://example.com/tags/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mongdb</title>
+    <link href="http://example.com/post/%E6%95%B0%E6%8D%AE%E5%BA%93/NoSQL/Mongdb/Mongdb.html"/>
+    <id>http://example.com/post/%E6%95%B0%E6%8D%AE%E5%BA%93/NoSQL/Mongdb/Mongdb.html</id>
+    <published>2022-07-19T12:33:50.140Z</published>
+    <updated>2022-07-19T12:33:33.000Z</updated>
+    
+    
+    
+    
+    <category term="数据库" scheme="http://example.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="NoSQL" scheme="http://example.com/tags/NoSQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis基础</title>
+    <link href="http://example.com/post/%E6%95%B0%E6%8D%AE%E5%BA%93/NoSQL/Redis/Redis%E5%9F%BA%E7%A1%80.html"/>
+    <id>http://example.com/post/%E6%95%B0%E6%8D%AE%E5%BA%93/NoSQL/Redis/Redis%E5%9F%BA%E7%A1%80.html</id>
+    <published>2022-07-19T12:33:50.140Z</published>
+    <updated>2022-07-19T12:33:33.000Z</updated>
+    
+    
+    
+    
+    <category term="数据库" scheme="http://example.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="NoSQL" scheme="http://example.com/tags/NoSQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL基础</title>
+    <link href="http://example.com/post/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/MySQL%E5%9F%BA%E7%A1%80.html"/>
+    <id>http://example.com/post/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/MySQL%E5%9F%BA%E7%A1%80.html</id>
+    <published>2022-07-19T12:33:50.140Z</published>
+    <updated>2022-07-19T12:33:33.000Z</updated>
+    
+    
+    
+    
+    <category term="数据库" scheme="http://example.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="关系型数据库" scheme="http://example.com/tags/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>主页</title>
+    <link href="http://example.com/post/%E4%B8%BB%E9%A1%B5.html"/>
+    <id>http://example.com/post/%E4%B8%BB%E9%A1%B5.html</id>
+    <published>2022-07-19T12:33:50.130Z</published>
+    <updated>2022-07-19T12:33:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="✨-Java基础"><a href="#✨-Java基础" class="headerlink" title="✨ Java基础"></a>✨ Java基础</h3><ul><li><a href="/post/Java/Java%E5%9F%BA%E7%A1%80/JavaSE">JavaSE</a></li><li><a href="/post/Java/Java%E5%9F%BA%E7%A1%80/JDBC">JDBC</a></li><li><a href="/post/Java/Java%E5%9F%BA%E7%A1%80/JavaEE">JavaEE</a></li></ul><h3 id="🎉-Java进阶"><a href="#🎉-Java进阶" class="headerlink" title="🎉 Java进阶"></a>🎉 Java进阶</h3><ul><li><a href="/post/Java/Java%E8%BF%9B%E9%98%B6/Spring">Spring</a></li><li><a href="/post/Java/Java%E8%BF%9B%E9%98%B6/SpringMVC">SpringMVC</a></li><li><a href="/post/Java/Java%E8%BF%9B%E9%98%B6/MyBatis">MyBatis</a></li><li><a href="/post/Java/Java%E8%BF%9B%E9%98%B6/MyBatis-Plus">MyBatis-Plus</a></li><li><a href="/post/Java/Java%E8%BF%9B%E9%98%B6/SpringBoot">SpringBoot</a></li><li><a href="/post/Java/Java%E8%BF%9B%E9%98%B6/SpringCloud">SpringCloud</a></li><li><a href="/post/Java/Java%E8%BF%9B%E9%98%B6/Netty">Netty</a></li><li><a href="/post/Java/Java%E8%BF%9B%E9%98%B6/JVM">JVM</a></li><li><a href="/post/Java/Java%E8%BF%9B%E9%98%B6/Java%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95">Java数据结构和算法</a></li><li><a href="/post/Java/Java%E8%BF%9B%E9%98%B6/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F">Java设计模式</a></li><li><a href="/post/Java/Java%E8%BF%9B%E9%98%B6/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7">Java版本新特性</a></li></ul><h3 id="✏-游戏开发"><a href="#✏-游戏开发" class="headerlink" title="✏ 游戏开发"></a>✏ 游戏开发</h3><ul><li>Unity</li><li>C#</li><li>Blender</li></ul><h3 id="✨-计算机专业课"><a href="#✨-计算机专业课" class="headerlink" title="✨ 计算机专业课"></a>✨ 计算机专业课</h3><ul><li>​<a href="/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95">数据结构和算法</a></li><li><a href="/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C">计算机网络</a></li><li><a href="/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F">操作系统</a></li><li><a href="/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F">设计模式</a></li></ul><h3 id="🎉-前端"><a href="#🎉-前端" class="headerlink" title="🎉 前端"></a>🎉 前端</h3><ul><li>HTML和CSS</li><li>JavaScript</li><li>JQuery</li><li>Vue</li><li>Angular</li></ul><h3 id="✏-常用技术-amp-工具"><a href="#✏-常用技术-amp-工具" class="headerlink" title="✏ 常用技术&amp;工具"></a>✏ 常用技术&amp;工具</h3><ul><li><a href="/post/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7&%E6%8A%80%E6%9C%AF/Git">Git</a></li><li><a href="/post/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7&%E6%8A%80%E6%9C%AF/Maven">Maven</a></li><li>IDEA</li><li>VsCode</li></ul><h3 id="✨-数据库"><a href="#✨-数据库" class="headerlink" title="✨ 数据库"></a>✨ 数据库</h3><ul><li><a href="/post/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/MySQL">MySQL</a></li><li><a href="/post/%E6%95%B0%E6%8D%AE%E5%BA%93/NoSQL/Redis/Redis">Redis</a></li><li><a href="/post/%E6%95%B0%E6%8D%AE%E5%BA%93/NoSQL/Mongdb/Mongdb">Mongdb</a></li><li><a href="/post/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/Oracle/Oracle">Oracle</a></li></ul><h3 id="🎉-项目实战"><a href="#🎉-项目实战" class="headerlink" title="🎉 项目实战"></a>🎉 项目实战</h3><ul><li>text</li></ul><h3 id="✏-Python"><a href="#✏-Python" class="headerlink" title="✏ Python"></a>✏ Python</h3><ul><li>Python基础</li><li>Python爬虫</li></ul><h3 id="✨-数学"><a href="#✨-数学" class="headerlink" title="✨ 数学"></a>✨ 数学</h3><ul><li>离散数学</li><li>高等数学</li></ul><h3 id="🎉-面试-amp-刷题"><a href="#🎉-面试-amp-刷题" class="headerlink" title="🎉 面试&amp;刷题"></a>🎉 面试&amp;刷题</h3><ul><li><a href="">​</a>​<a href="/post/%E9%9D%A2%E8%AF%95&%E5%88%B7%E9%A2%98/LeetCode%E5%88%B7%E9%A2%98">LeetCode刷题</a></li></ul><h3 id="✏-three"><a href="#✏-three" class="headerlink" title="✏ three"></a>✏ three</h3><ul><li>text</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;✨-Java基础&quot;&gt;&lt;a href=&quot;#✨-Java基础&quot; class=&quot;headerlink&quot; title=&quot;✨ Java基础&quot;&gt;&lt;/a&gt;✨ Java基础&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/post/Java/Java%E5%9F%BA%E7%A1%</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Git</title>
-    <link href="https://hyc-coderoad.github.io.git/post/%E5%B7%A5%E5%85%B7/Git.html"/>
-    <id>https://hyc-coderoad.github.io.git/post/%E5%B7%A5%E5%85%B7/Git.html</id>
-    <published>2021-01-22T16:00:00.000Z</published>
-    <updated>2022-07-10T13:13:36.227Z</updated>
+    <link href="http://example.com/post/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7&amp;%E6%8A%80%E6%9C%AF/Git.html"/>
+    <id>http://example.com/post/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7&amp;%E6%8A%80%E6%9C%AF/Git.html</id>
+    <published>2022-07-19T12:33:50.130Z</published>
+    <updated>2022-07-19T12:33:33.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Git是目前世界上最先进的分布式版本控制。</p><p>在实际开发中很多命令的使用次数极少，并且Git的基础使用很简单，并且大多数开发工具已经集成Git，通过可视化的操作即可很方便的使用。但是我们依旧要学习Git，以便在某些特殊的时候使用和更好的理解他的原理。</p><span id="more"></span><h1 id="版本控制"><a href="#版本控制" class="headerlink" title="版本控制"></a>版本控制</h1><p>版本控制是一种在开发的过程中用于管理我们对文件，目录或工程等内容的修改历史，方便查看更改历史记录，备份以便恢复到以前版本的软件工程技术。</p><ul><li>实现跨区域多人协同开发</li><li>追踪和记载一个或者多个文件的历史记录</li><li>组织和保护你的源代码和文档</li><li>统计工作量</li><li>并行开发，提高开发效率</li><li>跟踪记录整个软件的开发过程</li><li>减轻开发人员的负担，节省时间，同时降低人为错误</li></ul><p>主流的版本控制工具：Git，SVN，CVS，VSS，TFS。版本控制的工具有很多，其中影响力最大且使用范围最广的是Git。</p><p><strong>分类：</strong></p><ol><li>本地版本控制：就是文件的每次跟新，可以对每个版本做一个快照，或是记录补丁文件，适合个人使用，如RCS。</li><li>集中版本控制：所有的版本数据都保存在服务器上，协同开发者从服务器上同步更行或上传自己的修改，用户本地只有以前的版本，需要联网才能进行一系列操作，并且服务器损坏就会失去所有数据，如：SVN，CVS，VSS。</li><li>分布式版本控制：所有的版本信息都同步到本地的每一个用户，每个人都有全部的代码，可以离线操作，服务器只是为了方便代码的合并。如：Git。</li></ol><h1 id="Git简介"><a href="#Git简介" class="headerlink" title="Git简介"></a>Git简介</h1><p>Git是目前世界上最先进的分布式版本控制。</p><h2 id="Git历史"><a href="#Git历史" class="headerlink" title="Git历史"></a>Git历史</h2><p>2002年，Linux内核的开源项目有众多的参与者。绝大多数的Linux维护工作都在提交补丁和保存归档的繁琐事务上。Linux发展了10年，代码库非常庞大，很难再通过手工方式管理。当时有很多集中版本控制工具，但是他们必须联网才能使用吗，并且速度慢，就没有使用。</p><p>于是选择了商业版本的控制系统BitKeeper，BitKeeper出于人道主义精神，授权Linux社区免费使用。</p><p>2005年，Linux社区牛人试图破解BitKeeper的协议，被发现，便收回了免费使用权。</p><p>Linus便花了两周时间开发了一个分布式版本控制系统——Git。Git迅速成为了最流行的分布式管理工具。</p><p>2008年，GitHub上线，并为开源项目提供免费的Git存储，无数的开源项目迁移到GitHUb。</p><h2 id="安装Git"><a href="#安装Git" class="headerlink" title="安装Git"></a>安装Git</h2><p>官网：<a href="https://git-scm.com/">Git (git-scm.com)</a></p><ol><li>下载对应操作系统的版本。</li><li>终端输入<code>git</code> 查看是否已安装。</li></ol><h3 id="WIndows"><a href="#WIndows" class="headerlink" title="WIndows"></a>WIndows</h3><p>下载完成以后，无脑下一步即可。</p><h3 id="Linux"><a href="#Linux" class="headerlink" title="Linux"></a>Linux</h3><p>官网下载源码然后依次输入：<code>.config</code> ，<code>make</code>，<code>sudo make install</code></p><h3 id="Mac"><a href="#Mac" class="headerlink" title="Mac"></a>Mac</h3><p>通过HomeBrew方式安装（推荐）：</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">brew <span class="token function">install</span> <span class="token function">git</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h1 id="Git配置"><a href="#Git配置" class="headerlink" title="Git配置"></a>Git配置</h1><h2 id="查看Git配置"><a href="#查看Git配置" class="headerlink" title="查看Git配置"></a>查看Git配置</h2><ul><li>查看全部配置：<code>git config -l</code></li><li>查看系统配置：<code>git config --system --list</code></li><li>查看用户配置：<code>git config --global --list</code></li></ul><h2 id="设置用户名与邮箱（用户标识，必要）"><a href="#设置用户名与邮箱（用户标识，必要）" class="headerlink" title="设置用户名与邮箱（用户标识，必要）"></a>设置用户名与邮箱（用户标识，必要）</h2><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">git</span> config --global user.name <span class="token string">"用户名"</span><span class="token function">git</span> config --global user.email <span class="token string">"邮箱"</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h1 id="Git基本原理"><a href="#Git基本原理" class="headerlink" title="Git基本原理"></a>Git基本原理</h1><h2 id="工作区域"><a href="#工作区域" class="headerlink" title="工作区域"></a>工作区域</h2><p>Git本地有三个工作区域：工作目录，暂存区，资源库。如果再加上远程git仓库就可以分为四个工作区域。</p><ul><li>Workspace：工作区，就是你本地存放代码的地方</li><li>Index/Stage：暂存区，用于临时存放你的改动，事实上他是一个文件，保存即将提交到文件列表信息</li><li>Repository：仓库区（本地仓库），就是安全存放数据的位置，这里面有你提交的所有版本数据。其中HEAD指向最新放入仓库的版本。</li><li>Remote：远程仓库，托管代码的服务器，可以简单的认为是项目中一和你同时交换代码的地方。</li></ul><h2 id="工作流程"><a href="#工作流程" class="headerlink" title="工作流程"></a>工作流程</h2><ol><li>再工作目录中添加，修改文件</li><li>将需要进行版本管理的文件放入暂存区</li><li>将暂存区的文件提交到git仓库</li></ol><p>因此Git管理的文件有三种状态：已修改，已暂存，已提交。</p><h1 id="Git的基本使用"><a href="#Git的基本使用" class="headerlink" title="Git的基本使用"></a>Git的基本使用</h1><p>这里面的操作将是实际开发中最常使用的操作。</p><h2 id="搭建Git仓库"><a href="#搭建Git仓库" class="headerlink" title="搭建Git仓库"></a>搭建Git仓库</h2><h3 id="本地搭建仓库"><a href="#本地搭建仓库" class="headerlink" title="本地搭建仓库"></a>本地搭建仓库</h3><p>新建一个文件夹/在已有文件夹中初始化Git仓库：<code>git init</code> 。</p><blockquote><span class="custom-blockquote-svg"><svg width="24" height="24" viewBox="0 0 24 24" fill="" xmlns="http://www.w3.org/2000/svg" data-reactroot=""><path fill="" d="M22 12C22 6.5 17.5 2 12 2C6.5 2 2 6.5 2 12C2 17.5 6.5 22 12 22C13.8 22 15.5 21.5 17 20.6L22 22L20.7 17C21.5 15.5 22 13.8 22 12Z" undefined="1"></path><path fill="" d="M15.97 11.5H16.04C17.12 11.5 18 12.38 18 13.47V13.53C18 14.62 17.12 15.5 16.03 15.5H15.96C14.88 15.5 14 14.62 14 13.53V13.46C14 12.38 14.88 11.5 15.97 11.5Z" undefined="1"></path><path fill="" d="M7.97 11.5H8.04C9.12 11.5 10 12.38 10 13.47V13.53C10 14.62 9.12 15.5 8.03 15.5H7.97C6.88 15.5 6 14.62 6 13.53V13.46C6 12.38 6.88 11.5 7.97 11.5Z" undefined="1"></path><path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke="" d="M17 8.5C15.23 8.97 14.07 10.84 14.01 13.27C14 13.33 14 13.4 14 13.47V13.5"></path><path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke="" d="M9 8.5C7.23 8.97 6.07 10.84 6.01 13.27C6 13.33 6 13.4 6 13.47V13.5"></path><path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke="" d="M15.97 11.5H16.04C17.12 11.5 18 12.38 18 13.47V13.53C18 14.62 17.12 15.5 16.03 15.5H15.96C14.88 15.5 14 14.62 14 13.53V13.46C14 12.38 14.88 11.5 15.97 11.5Z"></path><path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke="" d="M7.97 11.5H8.04C9.12 11.5 10 12.38 10 13.47V13.53C10 14.62 9.12 15.5 8.03 15.5H7.97C6.88 15.5 6 14.62 6 13.53V13.46C6 12.38 6.88 11.5 7.97 11.5Z"></path></svg></span><p>执行完成后会生成一个.git文件（需要打开隐藏目录才能看见）。</p></blockquote><h3 id="克隆远程仓库（拉取代码）、"><a href="#克隆远程仓库（拉取代码）、" class="headerlink" title="克隆远程仓库（拉取代码）、"></a>克隆远程仓库（拉取代码）、</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">git</span> clone <span class="token punctuation">[</span>远程仓库地址<span class="token punctuation">]</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h2 id="Git文件操作"><a href="#Git文件操作" class="headerlink" title="Git文件操作"></a>Git文件操作</h2><h3 id="文件4种状态"><a href="#文件4种状态" class="headerlink" title="文件4种状态"></a>文件4种状态</h3><ul><li>Untracked：未跟踪。此文件在文件夹中，但是并没有加入git库中，通过<code>git add</code> 将状态改为Staged</li><li>Unmodify：文件已经入库，未修改。如果修改了状态变成Modified。可以使用<code>git rm</code> 命令移除版本库，则成为Untracked文件</li><li>Modified：文件已修改，仅仅是修改了文件，没有进行其他操作。可以通过<code>git add</code> 命令加入暂存区，修改为staged状态。可以使用<code>git checkout</code> 命令丢弃修改，返回unmodify状态，<code>git checkout</code> 即为从库中取出文件，覆盖当前修改。</li><li>Staged：暂存状态，执行<code>git commit</code> 则将修改同步到库中，这是库中文件和本地文件变为一致，文件为unmodify状态。执行<code>git reset HEAD filename</code> 取消暂存。</li></ul><h3 id="查看文件状态"><a href="#查看文件状态" class="headerlink" title="查看文件状态"></a>查看文件状态</h3><ul><li>查看指定文件状态：<code>git status &lt;filename&gt;</code></li><li>查看所有文件状态：<code>git status</code></li></ul><h3 id="添加到暂存区和提交到本地仓库"><a href="#添加到暂存区和提交到本地仓库" class="headerlink" title="添加到暂存区和提交到本地仓库"></a>添加到暂存区和提交到本地仓库</h3><ul><li>添加到暂存区</li></ul><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">git</span> <span class="token function">add</span> <span class="token builtin class-name">.</span>             <span class="token comment"># 提交所有文件到暂存区</span><span class="token function">git</span> <span class="token function">add</span> <span class="token operator">&lt;</span>filename<span class="token operator">></span>    <span class="token comment"># 提交指定文件到暂存区</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><ul><li>提交到本地仓库</li></ul><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">git</span> commit -m <span class="token string">"提交信息"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="提交到远程仓库"><a href="#提交到远程仓库" class="headerlink" title="提交到远程仓库"></a>提交到远程仓库</h3><ol><li>本地和远程仓库建立连接：<code>git remote add origin 远程地址</code></li><li>提交到远程仓库：<code> git push -u origin master</code> ，提交到远程的master分支</li></ol><h3 id="忽略文件"><a href="#忽略文件" class="headerlink" title="忽略文件"></a>忽略文件</h3><p>有些时候我们不需要将有些文件提交到版本库中，比如数据库文件，临时文件，设计文件等</p><p>git仓库主目录下建立.gitignore文件，此文件规则：</p><ol><li>忽略文件中的空行或以井号开头的行</li><li>可以使用Linux通配符，如：星号代表任意字符就，问号代表一个字符，方括号代表可选字符范围，大括号代表可选的字符串等</li><li>如果名称的最前面是一个感叹号，表示例外规则，将不被忽略</li><li>如果名称的最前面是一个斜杠，表示忽略的文件在此目录下，而子目录中的文件不忽略</li><li>如果名称的最后面是一个斜杠，则忽略该目录下的子目录，而非文件（前后都没有斜杠则都忽略）</li></ol><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">*.txt    <span class="token comment"># 忽略所有.txt结尾文件</span><span class="token operator">!</span>test.txt    <span class="token comment"># test.txt除外</span>/temp    <span class="token comment"># 仅忽略temp跟目录下的文件，不包括其中的子目录</span>build/    <span class="token comment"># 忽略build下的子目录，不包括文件</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;Git是目前世界上最先进的分布式版本控制。&lt;/p&gt;
-&lt;p&gt;在实际开发中很多命令的使用次数极少，并且Git的基础使用很简单，并且大多数开发工具已经集成Git，通过可视化的操作即可很方便的使用。但是我们依旧要学习Git，以便在某些特殊的时候使用和更好的理解他的原理。&lt;/p&gt;</summary>
+    <content type="html"><![CDATA[<h1 id="Git简介"><a href="#Git简介" class="headerlink" title="Git简介"></a>Git简介</h1><p>Git是世界上最先进的分布式版本控制系统。</p><p>版本控制是一种在开发的过程中用于管理我们对文件，目录或工程等内容的修改历史，方便查看更改历史记录，备份以便恢复到以前版本的软件工程技术。</p><h2 id="Git历史"><a href="#Git历史" class="headerlink" title="Git历史"></a>Git历史</h2><p>Linus在1991年开源了Linux。世界各地的开发者们都在为Linux的发展做出贡献。</p><p>2002年以前，世界各地的开发者是通过diff的方式发送给Linus，然后Linus手动合并代码。随着Linux的发展，代码量庞大，很难再通过手工的方式管理。</p><p>当时有很多免费的版本控制系统如：CVS，SVN。但是Linus坚决不使用因为这些集中式版本控制系统不但速度慢，而且必须联网才能使用。还有一些商用版本的控制系统，但是和Linux的开源精神不符。</p><p>后来还是选择了商用版本的BitKeeper，BitKeeper出于人道主义精神，授权Linux社区免费使用。</p><p>2005年，Linux社区牛人试图破解BitKeeper协议，被发现，便收回了免费使用的权限。</p><p>Linus便花了两周时间，用C开发了一个分布式版本控制系统——Git。之后Linux的代码便都交给了Git管理。</p><p>2008年，GitHub上线，并为开源项目提供了免费的Git存储，从此无数的开源项目迁移到GitHub中。</p><h2 id="集中式和分布式"><a href="#集中式和分布式" class="headerlink" title="集中式和分布式"></a>集中式和分布式</h2><h3 id="集中式"><a href="#集中式" class="headerlink" title="集中式"></a>集中式</h3><p>集中式版本控制系统，版本库是集中放在中央服务器的，干活的时候，需要从中央服务器拉去最新的代码，编写完代码之后再提交回中央仓库。</p><p>集中式最大的毛病就是必须联网才能使用。</p><h3 id="分布式"><a href="#分布式" class="headerlink" title="分布式"></a>分布式</h3><p>分布式系统根本没有中央服务器（线上仓库可以理解为就是为了交换和你同事的代码），每个人的电脑上都是一个完整的库，这样你工作时就不需要联网了，版本库就在自己的电脑上。</p><p>分布式版本控制系统相对与集中式版本控制系统要安全很多，因为每个人的电脑上都是一个版本库，而集中式版本控制系统如果服务器损坏就有可能代码丢失无法工作。</p><blockquote><span class="custom-blockquote-svg"><svg width="24" height="24" viewBox="0 0 24 24" fill="" xmlns="http://www.w3.org/2000/svg" data-reactroot=""><path fill="" d="M22 12C22 6.5 17.5 2 12 2C6.5 2 2 6.5 2 12C2 17.5 6.5 22 12 22C13.8 22 15.5 21.5 17 20.6L22 22L20.7 17C21.5 15.5 22 13.8 22 12Z" undefined="1"></path><path fill="" d="M15.97 11.5H16.04C17.12 11.5 18 12.38 18 13.47V13.53C18 14.62 17.12 15.5 16.03 15.5H15.96C14.88 15.5 14 14.62 14 13.53V13.46C14 12.38 14.88 11.5 15.97 11.5Z" undefined="1"></path><path fill="" d="M7.97 11.5H8.04C9.12 11.5 10 12.38 10 13.47V13.53C10 14.62 9.12 15.5 8.03 15.5H7.97C6.88 15.5 6 14.62 6 13.53V13.46C6 12.38 6.88 11.5 7.97 11.5Z" undefined="1"></path><path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke="" d="M17 8.5C15.23 8.97 14.07 10.84 14.01 13.27C14 13.33 14 13.4 14 13.47V13.5"></path><path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke="" d="M9 8.5C7.23 8.97 6.07 10.84 6.01 13.27C6 13.33 6 13.4 6 13.47V13.5"></path><path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke="" d="M15.97 11.5H16.04C17.12 11.5 18 12.38 18 13.47V13.53C18 14.62 17.12 15.5 16.03 15.5H15.96C14.88 15.5 14 14.62 14 13.53V13.46C14 12.38 14.88 11.5 15.97 11.5Z"></path><path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke="" d="M7.97 11.5H8.04C9.12 11.5 10 12.38 10 13.47V13.53C10 14.62 9.12 15.5 8.03 15.5H7.97C6.88 15.5 6 14.62 6 13.53V13.46C6 12.38 6.88 11.5 7.97 11.5Z"></path></svg></span><ul><li>假设SVN服务器没了，那你丢掉了所有历史信息，因为你的本地只有当前版本以及部分历史信息。</li><li>假设GitHub服务器没了，你不会丢掉任何git历史信息，因为你的本地有完整的版本库信息。你可以把本地的git库重新上传到另外的git服务商。</li></ul></blockquote><h2 id="Git安装和配置"><a href="#Git安装和配置" class="headerlink" title="Git安装和配置"></a>Git安装和配置</h2><p>官网：<a href="https://git-scm.com/">Git (git-scm.com)</a></p><h3 id="Windosw"><a href="#Windosw" class="headerlink" title="Windosw"></a>Windosw</h3><ol><li>官网下载</li><li>无脑下一步即可</li><li>验证：终端输入<code>git</code></li></ol><h3 id="Linux"><a href="#Linux" class="headerlink" title="Linux"></a>Linux</h3><p>1.</p><h3 id="Mac"><a href="#Mac" class="headerlink" title="Mac"></a>Mac</h3><p>1.</p>]]></content>
     
     
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Git简介&quot;&gt;&lt;a href=&quot;#Git简介&quot; class=&quot;headerlink&quot; title=&quot;Git简介&quot;&gt;&lt;/a&gt;Git简介&lt;/h1&gt;&lt;p&gt;Git是世界上最先进的分布式版本控制系统。&lt;/p&gt;
+&lt;p&gt;版本控制是一种在开发的过程中用于管理我们对文件，目录或工程</summary>
+      
     
-    <category term="工具" scheme="https://hyc-coderoad.github.io.git/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="开发工具" scheme="https://hyc-coderoad.github.io.git/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    <category term="常用工具&amp;技术" scheme="http://example.com/categories/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7-%E6%8A%80%E6%9C%AF/"/>
     
-    <category term="版本控制" scheme="https://hyc-coderoad.github.io.git/tags/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven</title>
+    <link href="http://example.com/post/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7&amp;%E6%8A%80%E6%9C%AF/Maven.html"/>
+    <id>http://example.com/post/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7&amp;%E6%8A%80%E6%9C%AF/Maven.html</id>
+    <published>2022-07-19T12:33:50.130Z</published>
+    <updated>2022-07-19T12:33:33.000Z</updated>
+    
+    
+    
+    
+    <category term="常用工具&amp;技术" scheme="http://example.com/categories/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7-%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JVM</title>
+    <link href="http://example.com/post/Java/Java%E8%BF%9B%E9%98%B6/JVM.html"/>
+    <id>http://example.com/post/Java/Java%E8%BF%9B%E9%98%B6/JVM.html</id>
+    <published>2022-07-19T12:33:50.130Z</published>
+    <updated>2022-07-19T12:33:32.000Z</updated>
+    
+    
+    
+    
+    <category term="Java进阶" scheme="http://example.com/categories/Java%E8%BF%9B%E9%98%B6/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Java版本新特性</title>
+    <link href="http://example.com/post/Java/Java%E8%BF%9B%E9%98%B6/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7.html"/>
+    <id>http://example.com/post/Java/Java%E8%BF%9B%E9%98%B6/Java%E7%89%88%E6%9C%AC%E6%96%B0%E7%89%B9%E6%80%A7.html</id>
+    <published>2022-07-19T12:33:50.130Z</published>
+    <updated>2022-07-19T12:33:32.000Z</updated>
+    
+    
+    
+    
+    <category term="Java进阶" scheme="http://example.com/categories/Java%E8%BF%9B%E9%98%B6/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MyBatis</title>
+    <link href="http://example.com/post/Java/Java%E8%BF%9B%E9%98%B6/MyBatis.html"/>
+    <id>http://example.com/post/Java/Java%E8%BF%9B%E9%98%B6/MyBatis.html</id>
+    <published>2022-07-19T12:33:50.130Z</published>
+    <updated>2022-07-19T12:33:32.000Z</updated>
+    
+    
+    
+    
+    <category term="Java框架" scheme="http://example.com/categories/Java%E6%A1%86%E6%9E%B6/"/>
+    
+    
+    <category term="Java框架" scheme="http://example.com/tags/Java%E6%A1%86%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MyBatis-Plus</title>
+    <link href="http://example.com/post/Java/Java%E8%BF%9B%E9%98%B6/MyBatis-Plus.html"/>
+    <id>http://example.com/post/Java/Java%E8%BF%9B%E9%98%B6/MyBatis-Plus.html</id>
+    <published>2022-07-19T12:33:50.130Z</published>
+    <updated>2022-07-19T12:33:32.000Z</updated>
+    
+    
+    
+    
+    <category term="Java框架" scheme="http://example.com/categories/Java%E6%A1%86%E6%9E%B6/"/>
+    
+    
+    <category term="Java框架" scheme="http://example.com/tags/Java%E6%A1%86%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java设计模式</title>
+    <link href="http://example.com/post/Java/Java%E8%BF%9B%E9%98%B6/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.html"/>
+    <id>http://example.com/post/Java/Java%E8%BF%9B%E9%98%B6/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.html</id>
+    <published>2022-07-19T12:33:50.130Z</published>
+    <updated>2022-07-19T12:33:32.000Z</updated>
+    
+    
+    
+    
+    <category term="Java进阶" scheme="http://example.com/categories/Java%E8%BF%9B%E9%98%B6/"/>
+    
+    
+    <category term="设计模式" scheme="http://example.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Netty</title>
+    <link href="http://example.com/post/Java/Java%E8%BF%9B%E9%98%B6/Netty.html"/>
+    <id>http://example.com/post/Java/Java%E8%BF%9B%E9%98%B6/Netty.html</id>
+    <published>2022-07-19T12:33:50.130Z</published>
+    <updated>2022-07-19T12:33:32.000Z</updated>
+    
+    
+    
+    
+    <category term="Java框架" scheme="http://example.com/categories/Java%E6%A1%86%E6%9E%B6/"/>
+    
+    
+    <category term="Java框架" scheme="http://example.com/tags/Java%E6%A1%86%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring</title>
+    <link href="http://example.com/post/Java/Java%E8%BF%9B%E9%98%B6/Spring.html"/>
+    <id>http://example.com/post/Java/Java%E8%BF%9B%E9%98%B6/Spring.html</id>
+    <published>2022-07-19T12:33:50.130Z</published>
+    <updated>2022-07-19T12:33:32.000Z</updated>
+    
+    
+    
+    
+    <category term="Java框架" scheme="http://example.com/categories/Java%E6%A1%86%E6%9E%B6/"/>
+    
+    
+    <category term="Java框架" scheme="http://example.com/tags/Java%E6%A1%86%E6%9E%B6/"/>
     
   </entry>
   
